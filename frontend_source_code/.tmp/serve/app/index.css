@@ -4954,26 +4954,26 @@ report-ams-component .report-ams-mask {
   left: 0;
   z-index: 10; }
 
-home-project-inside-api-detail .home-project-inside-detail > header .title-ul .elem-active, home-project-inside-api-edit .home-project-inside-edit header .title-ul .elem-active, home-project-inside-api-history .home-project-inside-history header .title-ul .elem-active, home-project-inside-api-mock .home-project-inside-mock header .title-ul .elem-active, home-project-inside-api-test .home-project-inside-test header .title-ul .elem-active, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .elem-active, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .elem-active, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .elem-active {
+home-project-inside-api-edit .home-project-inside-edit header .title-ul .elem-active, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .elem-active, home-project-inside-api-history .home-project-inside-history header .title-ul .elem-active, home-project-inside-api-mock .home-project-inside-mock header .title-ul .elem-active, home-project-inside-api-test .home-project-inside-test header .title-ul .elem-active, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .elem-active, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .elem-active, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .elem-active {
   background-color: #4CAF50;
   color: #fff; }
 
-home-project-inside-api-detail .home-project-inside-detail > header .title-ul .menu-li, home-project-inside-api-edit .home-project-inside-edit header .title-ul .menu-li, home-project-inside-api-history .home-project-inside-history header .title-ul .menu-li, home-project-inside-api-mock .home-project-inside-mock header .title-ul .menu-li, home-project-inside-api-test .home-project-inside-test header .title-ul .menu-li, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .menu-li, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .menu-li, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .menu-li {
+home-project-inside-api-edit .home-project-inside-edit header .title-ul .menu-li, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .menu-li, home-project-inside-api-history .home-project-inside-history header .title-ul .menu-li, home-project-inside-api-mock .home-project-inside-mock header .title-ul .menu-li, home-project-inside-api-test .home-project-inside-test header .title-ul .menu-li, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .menu-li, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .menu-li, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .menu-li {
   margin: 9px 5px 0 10px;
   border: 1px solid #e5e5e5;
   background-color: #fff;
   border-radius: 3px;
   overflow: hidden; }
-  home-project-inside-api-detail .home-project-inside-detail > header .title-ul .menu-li a, home-project-inside-api-edit .home-project-inside-edit header .title-ul .menu-li a, home-project-inside-api-history .home-project-inside-history header .title-ul .menu-li a, home-project-inside-api-mock .home-project-inside-mock header .title-ul .menu-li a, home-project-inside-api-test .home-project-inside-test header .title-ul .menu-li a, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .menu-li a, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .menu-li a, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .menu-li a {
+  home-project-inside-api-edit .home-project-inside-edit header .title-ul .menu-li a, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .menu-li a, home-project-inside-api-history .home-project-inside-history header .title-ul .menu-li a, home-project-inside-api-mock .home-project-inside-mock header .title-ul .menu-li a, home-project-inside-api-test .home-project-inside-test header .title-ul .menu-li a, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .menu-li a, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .menu-li a, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .menu-li a {
     padding: 0 20px;
     height: 30px;
     line-height: 30px;
     display: inline-block;
     font-size: 12px; }
-    home-project-inside-api-detail .home-project-inside-detail > header .title-ul .menu-li a .iconfont, home-project-inside-api-edit .home-project-inside-edit header .title-ul .menu-li a .iconfont, home-project-inside-api-history .home-project-inside-history header .title-ul .menu-li a .iconfont, home-project-inside-api-mock .home-project-inside-mock header .title-ul .menu-li a .iconfont, home-project-inside-api-test .home-project-inside-test header .title-ul .menu-li a .iconfont, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .menu-li a .iconfont, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .menu-li a .iconfont, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .menu-li a .iconfont {
+    home-project-inside-api-edit .home-project-inside-edit header .title-ul .menu-li a .iconfont, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .menu-li a .iconfont, home-project-inside-api-history .home-project-inside-history header .title-ul .menu-li a .iconfont, home-project-inside-api-mock .home-project-inside-mock header .title-ul .menu-li a .iconfont, home-project-inside-api-test .home-project-inside-test header .title-ul .menu-li a .iconfont, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .menu-li a .iconfont, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .menu-li a .iconfont, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .menu-li a .iconfont {
       font-size: 12px;
       margin-right: 5px; }
-    home-project-inside-api-detail .home-project-inside-detail > header .title-ul .menu-li a:hover, home-project-inside-api-edit .home-project-inside-edit header .title-ul .menu-li a:hover, home-project-inside-api-history .home-project-inside-history header .title-ul .menu-li a:hover, home-project-inside-api-mock .home-project-inside-mock header .title-ul .menu-li a:hover, home-project-inside-api-test .home-project-inside-test header .title-ul .menu-li a:hover, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .menu-li a:hover, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .menu-li a:hover, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .menu-li a:hover {
+    home-project-inside-api-edit .home-project-inside-edit header .title-ul .menu-li a:hover, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .menu-li a:hover, home-project-inside-api-history .home-project-inside-history header .title-ul .menu-li a:hover, home-project-inside-api-mock .home-project-inside-mock header .title-ul .menu-li a:hover, home-project-inside-api-test .home-project-inside-test header .title-ul .menu-li a:hover, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .menu-li a:hover, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .menu-li a:hover, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .menu-li a:hover {
       background-color: #4CAF50;
       color: #fff; }
 
@@ -5125,10 +5125,10 @@ database-team .database-team article, home-project-inside-team .home-project-ins
               database-team .database-team article .admin-li .item-child-li .people-ul .list-li .list-function-wrap .list-function-ul .list-function-detail li:hover, home-project-inside-team .home-project-inside-team article .admin-li .item-child-li .people-ul .list-li .list-function-wrap .list-function-ul .list-function-detail li:hover, database-team .database-team article .partner-li .item-child-li .people-ul .list-li .list-function-wrap .list-function-ul .list-function-detail li:hover, home-project-inside-team .home-project-inside-team article .partner-li .item-child-li .people-ul .list-li .list-function-wrap .list-function-ul .list-function-detail li:hover {
                 background-color: #f0f0f0; }
 
-home-database-list .common-table-div header .title-ul, home-project-api .common-table-div header .title-ul, database-table-list .database-list header .title-ul, home-project-inside-api-detail .home-project-inside-detail > header .title-ul, home-project-inside-api-edit .home-project-inside-edit header .title-ul, home-project-inside-api-history .home-project-inside-history header .title-ul, home-project-inside-api-list .home-project-inside-list header .title-ul, home-project-inside-api-mock .home-project-inside-mock header .title-ul, home-project-inside-api-test .home-project-inside-test header .title-ul, home-project-inside-code-list .home-project-inside-code-list header .title-ul, home-project-inside-doc-detail .home-project-inside-detail header .title-ul, home-project-inside-doc-edit .home-project-inside-edit header .title-ul, home-project-inside-doc-list .home-project-inside-list header .title-ul, home-project-inside-test-api .common-table-div header .title-ul, home-project-inside-test-default .home-project-inside-default header .title-ul, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul {
+home-database-list .common-table-div header .title-ul, home-project-api .common-table-div header .title-ul, database-table-list .database-list header .title-ul, home-project-inside-api-edit .home-project-inside-edit header .title-ul, home-project-inside-api-detail .home-project-inside-detail > header .title-ul, home-project-inside-api-history .home-project-inside-history header .title-ul, home-project-inside-api-mock .home-project-inside-mock header .title-ul, home-project-inside-api-list .home-project-inside-list header .title-ul, home-project-inside-api-test .home-project-inside-test header .title-ul, home-project-inside-code-list .home-project-inside-code-list header .title-ul, home-project-inside-doc-detail .home-project-inside-detail header .title-ul, home-project-inside-doc-edit .home-project-inside-edit header .title-ul, home-project-inside-doc-list .home-project-inside-list header .title-ul, home-project-inside-test-api .common-table-div header .title-ul, home-project-inside-test-default .home-project-inside-default header .title-ul, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul {
   line-height: 48px;
   height: 40px; }
-  home-database-list .common-table-div header .title-ul .common-btn, home-project-api .common-table-div header .title-ul .common-btn, database-table-list .database-list header .title-ul .common-btn, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .common-btn, home-project-inside-api-edit .home-project-inside-edit header .title-ul .common-btn, home-project-inside-api-history .home-project-inside-history header .title-ul .common-btn, home-project-inside-api-list .home-project-inside-list header .title-ul .common-btn, home-project-inside-api-mock .home-project-inside-mock header .title-ul .common-btn, home-project-inside-api-test .home-project-inside-test header .title-ul .common-btn, home-project-inside-code-list .home-project-inside-code-list header .title-ul .common-btn, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .common-btn, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .common-btn, home-project-inside-doc-list .home-project-inside-list header .title-ul .common-btn, home-project-inside-test-api .common-table-div header .title-ul .common-btn, home-project-inside-test-default .home-project-inside-default header .title-ul .common-btn, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .common-btn {
+  home-database-list .common-table-div header .title-ul .common-btn, home-project-api .common-table-div header .title-ul .common-btn, database-table-list .database-list header .title-ul .common-btn, home-project-inside-api-edit .home-project-inside-edit header .title-ul .common-btn, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .common-btn, home-project-inside-api-history .home-project-inside-history header .title-ul .common-btn, home-project-inside-api-mock .home-project-inside-mock header .title-ul .common-btn, home-project-inside-api-list .home-project-inside-list header .title-ul .common-btn, home-project-inside-api-test .home-project-inside-test header .title-ul .common-btn, home-project-inside-code-list .home-project-inside-code-list header .title-ul .common-btn, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .common-btn, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .common-btn, home-project-inside-doc-list .home-project-inside-list header .title-ul .common-btn, home-project-inside-test-api .common-table-div header .title-ul .common-btn, home-project-inside-test-default .home-project-inside-default header .title-ul .common-btn, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .common-btn {
     height: 30px;
     line-height: 30px;
     padding: 0 10px;
@@ -5136,37 +5136,37 @@ home-database-list .common-table-div header .title-ul, home-project-api .common-
     display: inline-block;
     min-width: 65px;
     text-align: center; }
-    home-database-list .common-table-div header .title-ul .common-btn .iconfont, home-project-api .common-table-div header .title-ul .common-btn .iconfont, database-table-list .database-list header .title-ul .common-btn .iconfont, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .common-btn .iconfont, home-project-inside-api-edit .home-project-inside-edit header .title-ul .common-btn .iconfont, home-project-inside-api-history .home-project-inside-history header .title-ul .common-btn .iconfont, home-project-inside-api-list .home-project-inside-list header .title-ul .common-btn .iconfont, home-project-inside-api-mock .home-project-inside-mock header .title-ul .common-btn .iconfont, home-project-inside-api-test .home-project-inside-test header .title-ul .common-btn .iconfont, home-project-inside-code-list .home-project-inside-code-list header .title-ul .common-btn .iconfont, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .common-btn .iconfont, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .common-btn .iconfont, home-project-inside-doc-list .home-project-inside-list header .title-ul .common-btn .iconfont, home-project-inside-test-api .common-table-div header .title-ul .common-btn .iconfont, home-project-inside-test-default .home-project-inside-default header .title-ul .common-btn .iconfont, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .common-btn .iconfont {
+    home-database-list .common-table-div header .title-ul .common-btn .iconfont, home-project-api .common-table-div header .title-ul .common-btn .iconfont, database-table-list .database-list header .title-ul .common-btn .iconfont, home-project-inside-api-edit .home-project-inside-edit header .title-ul .common-btn .iconfont, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .common-btn .iconfont, home-project-inside-api-history .home-project-inside-history header .title-ul .common-btn .iconfont, home-project-inside-api-mock .home-project-inside-mock header .title-ul .common-btn .iconfont, home-project-inside-api-list .home-project-inside-list header .title-ul .common-btn .iconfont, home-project-inside-api-test .home-project-inside-test header .title-ul .common-btn .iconfont, home-project-inside-code-list .home-project-inside-code-list header .title-ul .common-btn .iconfont, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .common-btn .iconfont, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .common-btn .iconfont, home-project-inside-doc-list .home-project-inside-list header .title-ul .common-btn .iconfont, home-project-inside-test-api .common-table-div header .title-ul .common-btn .iconfont, home-project-inside-test-default .home-project-inside-default header .title-ul .common-btn .iconfont, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .common-btn .iconfont {
       font-size: 12px; }
-    home-database-list .common-table-div header .title-ul .common-btn .btn-name, home-project-api .common-table-div header .title-ul .common-btn .btn-name, database-table-list .database-list header .title-ul .common-btn .btn-name, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .common-btn .btn-name, home-project-inside-api-edit .home-project-inside-edit header .title-ul .common-btn .btn-name, home-project-inside-api-history .home-project-inside-history header .title-ul .common-btn .btn-name, home-project-inside-api-list .home-project-inside-list header .title-ul .common-btn .btn-name, home-project-inside-api-mock .home-project-inside-mock header .title-ul .common-btn .btn-name, home-project-inside-api-test .home-project-inside-test header .title-ul .common-btn .btn-name, home-project-inside-code-list .home-project-inside-code-list header .title-ul .common-btn .btn-name, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .common-btn .btn-name, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .common-btn .btn-name, home-project-inside-doc-list .home-project-inside-list header .title-ul .common-btn .btn-name, home-project-inside-test-api .common-table-div header .title-ul .common-btn .btn-name, home-project-inside-test-default .home-project-inside-default header .title-ul .common-btn .btn-name, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .common-btn .btn-name {
+    home-database-list .common-table-div header .title-ul .common-btn .btn-name, home-project-api .common-table-div header .title-ul .common-btn .btn-name, database-table-list .database-list header .title-ul .common-btn .btn-name, home-project-inside-api-edit .home-project-inside-edit header .title-ul .common-btn .btn-name, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .common-btn .btn-name, home-project-inside-api-history .home-project-inside-history header .title-ul .common-btn .btn-name, home-project-inside-api-mock .home-project-inside-mock header .title-ul .common-btn .btn-name, home-project-inside-api-list .home-project-inside-list header .title-ul .common-btn .btn-name, home-project-inside-api-test .home-project-inside-test header .title-ul .common-btn .btn-name, home-project-inside-code-list .home-project-inside-code-list header .title-ul .common-btn .btn-name, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .common-btn .btn-name, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .common-btn .btn-name, home-project-inside-doc-list .home-project-inside-list header .title-ul .common-btn .btn-name, home-project-inside-test-api .common-table-div header .title-ul .common-btn .btn-name, home-project-inside-test-default .home-project-inside-default header .title-ul .common-btn .btn-name, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .common-btn .btn-name {
       margin-left: 5px; }
-  home-database-list .common-table-div header .title-ul .default-btn, home-project-api .common-table-div header .title-ul .default-btn, database-table-list .database-list header .title-ul .default-btn, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .default-btn, home-project-inside-api-edit .home-project-inside-edit header .title-ul .default-btn, home-project-inside-api-history .home-project-inside-history header .title-ul .default-btn, home-project-inside-api-list .home-project-inside-list header .title-ul .default-btn, home-project-inside-api-mock .home-project-inside-mock header .title-ul .default-btn, home-project-inside-api-test .home-project-inside-test header .title-ul .default-btn, home-project-inside-code-list .home-project-inside-code-list header .title-ul .default-btn, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .default-btn, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .default-btn, home-project-inside-doc-list .home-project-inside-list header .title-ul .default-btn, home-project-inside-test-api .common-table-div header .title-ul .default-btn, home-project-inside-test-default .home-project-inside-default header .title-ul .default-btn, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .default-btn {
+  home-database-list .common-table-div header .title-ul .default-btn, home-project-api .common-table-div header .title-ul .default-btn, database-table-list .database-list header .title-ul .default-btn, home-project-inside-api-edit .home-project-inside-edit header .title-ul .default-btn, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .default-btn, home-project-inside-api-history .home-project-inside-history header .title-ul .default-btn, home-project-inside-api-mock .home-project-inside-mock header .title-ul .default-btn, home-project-inside-api-list .home-project-inside-list header .title-ul .default-btn, home-project-inside-api-test .home-project-inside-test header .title-ul .default-btn, home-project-inside-code-list .home-project-inside-code-list header .title-ul .default-btn, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .default-btn, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .default-btn, home-project-inside-doc-list .home-project-inside-list header .title-ul .default-btn, home-project-inside-test-api .common-table-div header .title-ul .default-btn, home-project-inside-test-default .home-project-inside-default header .title-ul .default-btn, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .default-btn {
     border: 1px solid #ddd;
     margin-left: 5px;
     border-radius: 3px;
     background-color: #fff; }
-    home-database-list .common-table-div header .title-ul .default-btn:hover, home-project-api .common-table-div header .title-ul .default-btn:hover, database-table-list .database-list header .title-ul .default-btn:hover, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .default-btn:hover, home-project-inside-api-edit .home-project-inside-edit header .title-ul .default-btn:hover, home-project-inside-api-history .home-project-inside-history header .title-ul .default-btn:hover, home-project-inside-api-list .home-project-inside-list header .title-ul .default-btn:hover, home-project-inside-api-mock .home-project-inside-mock header .title-ul .default-btn:hover, home-project-inside-api-test .home-project-inside-test header .title-ul .default-btn:hover, home-project-inside-code-list .home-project-inside-code-list header .title-ul .default-btn:hover, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .default-btn:hover, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .default-btn:hover, home-project-inside-doc-list .home-project-inside-list header .title-ul .default-btn:hover, home-project-inside-test-api .common-table-div header .title-ul .default-btn:hover, home-project-inside-test-default .home-project-inside-default header .title-ul .default-btn:hover, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .default-btn:hover {
+    home-database-list .common-table-div header .title-ul .default-btn:hover, home-project-api .common-table-div header .title-ul .default-btn:hover, database-table-list .database-list header .title-ul .default-btn:hover, home-project-inside-api-edit .home-project-inside-edit header .title-ul .default-btn:hover, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .default-btn:hover, home-project-inside-api-history .home-project-inside-history header .title-ul .default-btn:hover, home-project-inside-api-mock .home-project-inside-mock header .title-ul .default-btn:hover, home-project-inside-api-list .home-project-inside-list header .title-ul .default-btn:hover, home-project-inside-api-test .home-project-inside-test header .title-ul .default-btn:hover, home-project-inside-code-list .home-project-inside-code-list header .title-ul .default-btn:hover, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .default-btn:hover, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .default-btn:hover, home-project-inside-doc-list .home-project-inside-list header .title-ul .default-btn:hover, home-project-inside-test-api .common-table-div header .title-ul .default-btn:hover, home-project-inside-test-default .home-project-inside-default header .title-ul .default-btn:hover, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .default-btn:hover {
       background-color: #fafafa; }
-  home-database-list .common-table-div header .title-ul .first-btn, home-project-api .common-table-div header .title-ul .first-btn, database-table-list .database-list header .title-ul .first-btn, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .first-btn, home-project-inside-api-edit .home-project-inside-edit header .title-ul .first-btn, home-project-inside-api-history .home-project-inside-history header .title-ul .first-btn, home-project-inside-api-list .home-project-inside-list header .title-ul .first-btn, home-project-inside-api-mock .home-project-inside-mock header .title-ul .first-btn, home-project-inside-api-test .home-project-inside-test header .title-ul .first-btn, home-project-inside-code-list .home-project-inside-code-list header .title-ul .first-btn, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .first-btn, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .first-btn, home-project-inside-doc-list .home-project-inside-list header .title-ul .first-btn, home-project-inside-test-api .common-table-div header .title-ul .first-btn, home-project-inside-test-default .home-project-inside-default header .title-ul .first-btn, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .first-btn {
+  home-database-list .common-table-div header .title-ul .first-btn, home-project-api .common-table-div header .title-ul .first-btn, database-table-list .database-list header .title-ul .first-btn, home-project-inside-api-edit .home-project-inside-edit header .title-ul .first-btn, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .first-btn, home-project-inside-api-history .home-project-inside-history header .title-ul .first-btn, home-project-inside-api-mock .home-project-inside-mock header .title-ul .first-btn, home-project-inside-api-list .home-project-inside-list header .title-ul .first-btn, home-project-inside-api-test .home-project-inside-test header .title-ul .first-btn, home-project-inside-code-list .home-project-inside-code-list header .title-ul .first-btn, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .first-btn, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .first-btn, home-project-inside-doc-list .home-project-inside-list header .title-ul .first-btn, home-project-inside-test-api .common-table-div header .title-ul .first-btn, home-project-inside-test-default .home-project-inside-default header .title-ul .first-btn, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .first-btn {
     margin-left: 0; }
-  home-database-list .common-table-div header .title-ul .divide-li span, home-project-api .common-table-div header .title-ul .divide-li span, database-table-list .database-list header .title-ul .divide-li span, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .divide-li span, home-project-inside-api-edit .home-project-inside-edit header .title-ul .divide-li span, home-project-inside-api-history .home-project-inside-history header .title-ul .divide-li span, home-project-inside-api-list .home-project-inside-list header .title-ul .divide-li span, home-project-inside-api-mock .home-project-inside-mock header .title-ul .divide-li span, home-project-inside-api-test .home-project-inside-test header .title-ul .divide-li span, home-project-inside-code-list .home-project-inside-code-list header .title-ul .divide-li span, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .divide-li span, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .divide-li span, home-project-inside-doc-list .home-project-inside-list header .title-ul .divide-li span, home-project-inside-test-api .common-table-div header .title-ul .divide-li span, home-project-inside-test-default .home-project-inside-default header .title-ul .divide-li span, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .divide-li span {
+  home-database-list .common-table-div header .title-ul .divide-li span, home-project-api .common-table-div header .title-ul .divide-li span, database-table-list .database-list header .title-ul .divide-li span, home-project-inside-api-edit .home-project-inside-edit header .title-ul .divide-li span, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .divide-li span, home-project-inside-api-history .home-project-inside-history header .title-ul .divide-li span, home-project-inside-api-mock .home-project-inside-mock header .title-ul .divide-li span, home-project-inside-api-list .home-project-inside-list header .title-ul .divide-li span, home-project-inside-api-test .home-project-inside-test header .title-ul .divide-li span, home-project-inside-code-list .home-project-inside-code-list header .title-ul .divide-li span, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .divide-li span, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .divide-li span, home-project-inside-doc-list .home-project-inside-list header .title-ul .divide-li span, home-project-inside-test-api .common-table-div header .title-ul .divide-li span, home-project-inside-test-default .home-project-inside-default header .title-ul .divide-li span, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .divide-li span {
     border-left: 1px solid #e5e5e5;
     margin: 0 10px; }
-  home-database-list .common-table-div header .title-ul .btn-li, home-project-api .common-table-div header .title-ul .btn-li, database-table-list .database-list header .title-ul .btn-li, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .btn-li, home-project-inside-api-edit .home-project-inside-edit header .title-ul .btn-li, home-project-inside-api-history .home-project-inside-history header .title-ul .btn-li, home-project-inside-api-list .home-project-inside-list header .title-ul .btn-li, home-project-inside-api-mock .home-project-inside-mock header .title-ul .btn-li, home-project-inside-api-test .home-project-inside-test header .title-ul .btn-li, home-project-inside-code-list .home-project-inside-code-list header .title-ul .btn-li, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .btn-li, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .btn-li, home-project-inside-doc-list .home-project-inside-list header .title-ul .btn-li, home-project-inside-test-api .common-table-div header .title-ul .btn-li, home-project-inside-test-default .home-project-inside-default header .title-ul .btn-li, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .btn-li {
+  home-database-list .common-table-div header .title-ul .btn-li, home-project-api .common-table-div header .title-ul .btn-li, database-table-list .database-list header .title-ul .btn-li, home-project-inside-api-edit .home-project-inside-edit header .title-ul .btn-li, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .btn-li, home-project-inside-api-history .home-project-inside-history header .title-ul .btn-li, home-project-inside-api-mock .home-project-inside-mock header .title-ul .btn-li, home-project-inside-api-list .home-project-inside-list header .title-ul .btn-li, home-project-inside-api-test .home-project-inside-test header .title-ul .btn-li, home-project-inside-code-list .home-project-inside-code-list header .title-ul .btn-li, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .btn-li, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .btn-li, home-project-inside-doc-list .home-project-inside-list header .title-ul .btn-li, home-project-inside-test-api .common-table-div header .title-ul .btn-li, home-project-inside-test-default .home-project-inside-default header .title-ul .btn-li, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .btn-li {
     min-width: 65px;
     cursor: pointer;
     text-align: center; }
-    home-database-list .common-table-div header .title-ul .btn-li .iconfont, home-project-api .common-table-div header .title-ul .btn-li .iconfont, database-table-list .database-list header .title-ul .btn-li .iconfont, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .btn-li .iconfont, home-project-inside-api-edit .home-project-inside-edit header .title-ul .btn-li .iconfont, home-project-inside-api-history .home-project-inside-history header .title-ul .btn-li .iconfont, home-project-inside-api-list .home-project-inside-list header .title-ul .btn-li .iconfont, home-project-inside-api-mock .home-project-inside-mock header .title-ul .btn-li .iconfont, home-project-inside-api-test .home-project-inside-test header .title-ul .btn-li .iconfont, home-project-inside-code-list .home-project-inside-code-list header .title-ul .btn-li .iconfont, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .btn-li .iconfont, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .btn-li .iconfont, home-project-inside-doc-list .home-project-inside-list header .title-ul .btn-li .iconfont, home-project-inside-test-api .common-table-div header .title-ul .btn-li .iconfont, home-project-inside-test-default .home-project-inside-default header .title-ul .btn-li .iconfont, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .btn-li .iconfont {
+    home-database-list .common-table-div header .title-ul .btn-li .iconfont, home-project-api .common-table-div header .title-ul .btn-li .iconfont, database-table-list .database-list header .title-ul .btn-li .iconfont, home-project-inside-api-edit .home-project-inside-edit header .title-ul .btn-li .iconfont, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .btn-li .iconfont, home-project-inside-api-history .home-project-inside-history header .title-ul .btn-li .iconfont, home-project-inside-api-mock .home-project-inside-mock header .title-ul .btn-li .iconfont, home-project-inside-api-list .home-project-inside-list header .title-ul .btn-li .iconfont, home-project-inside-api-test .home-project-inside-test header .title-ul .btn-li .iconfont, home-project-inside-code-list .home-project-inside-code-list header .title-ul .btn-li .iconfont, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .btn-li .iconfont, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .btn-li .iconfont, home-project-inside-doc-list .home-project-inside-list header .title-ul .btn-li .iconfont, home-project-inside-test-api .common-table-div header .title-ul .btn-li .iconfont, home-project-inside-test-default .home-project-inside-default header .title-ul .btn-li .iconfont, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .btn-li .iconfont {
       cursor: pointer; }
-    home-database-list .common-table-div header .title-ul .btn-li:hover .list-function-wrap, home-project-api .common-table-div header .title-ul .btn-li:hover .list-function-wrap, database-table-list .database-list header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-api-edit .home-project-inside-edit header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-api-history .home-project-inside-history header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-api-list .home-project-inside-list header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-api-mock .home-project-inside-mock header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-api-test .home-project-inside-test header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-code-list .home-project-inside-code-list header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-doc-list .home-project-inside-list header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-test-api .common-table-div header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-test-default .home-project-inside-default header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .btn-li:hover .list-function-wrap {
+    home-database-list .common-table-div header .title-ul .btn-li:hover .list-function-wrap, home-project-api .common-table-div header .title-ul .btn-li:hover .list-function-wrap, database-table-list .database-list header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-api-edit .home-project-inside-edit header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-api-history .home-project-inside-history header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-api-mock .home-project-inside-mock header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-api-list .home-project-inside-list header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-api-test .home-project-inside-test header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-code-list .home-project-inside-code-list header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-doc-list .home-project-inside-list header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-test-api .common-table-div header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-test-default .home-project-inside-default header .title-ul .btn-li:hover .list-function-wrap, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .btn-li:hover .list-function-wrap {
       display: block; }
-    home-database-list .common-table-div header .title-ul .btn-li .list-function-wrap, home-project-api .common-table-div header .title-ul .btn-li .list-function-wrap, database-table-list .database-list header .title-ul .btn-li .list-function-wrap, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .btn-li .list-function-wrap, home-project-inside-api-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap, home-project-inside-api-history .home-project-inside-history header .title-ul .btn-li .list-function-wrap, home-project-inside-api-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap, home-project-inside-api-mock .home-project-inside-mock header .title-ul .btn-li .list-function-wrap, home-project-inside-api-test .home-project-inside-test header .title-ul .btn-li .list-function-wrap, home-project-inside-code-list .home-project-inside-code-list header .title-ul .btn-li .list-function-wrap, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .btn-li .list-function-wrap, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap, home-project-inside-doc-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap, home-project-inside-test-api .common-table-div header .title-ul .btn-li .list-function-wrap, home-project-inside-test-default .home-project-inside-default header .title-ul .btn-li .list-function-wrap, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .btn-li .list-function-wrap {
+    home-database-list .common-table-div header .title-ul .btn-li .list-function-wrap, home-project-api .common-table-div header .title-ul .btn-li .list-function-wrap, database-table-list .database-list header .title-ul .btn-li .list-function-wrap, home-project-inside-api-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .btn-li .list-function-wrap, home-project-inside-api-history .home-project-inside-history header .title-ul .btn-li .list-function-wrap, home-project-inside-api-mock .home-project-inside-mock header .title-ul .btn-li .list-function-wrap, home-project-inside-api-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap, home-project-inside-api-test .home-project-inside-test header .title-ul .btn-li .list-function-wrap, home-project-inside-code-list .home-project-inside-code-list header .title-ul .btn-li .list-function-wrap, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .btn-li .list-function-wrap, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap, home-project-inside-doc-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap, home-project-inside-test-api .common-table-div header .title-ul .btn-li .list-function-wrap, home-project-inside-test-default .home-project-inside-default header .title-ul .btn-li .list-function-wrap, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .btn-li .list-function-wrap {
       position: absolute;
       cursor: default;
       margin-top: -1px;
       display: none;
       z-index: 4; }
-      home-database-list .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function, home-project-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function, database-table-list .database-list header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-api-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-api-history .home-project-inside-history header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-api-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-api-mock .home-project-inside-mock header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-api-test .home-project-inside-test header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-code-list .home-project-inside-code-list header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-doc-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-test-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-test-default .home-project-inside-default header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .btn-li .list-function-wrap .nav-function {
+      home-database-list .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function, home-project-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function, database-table-list .database-list header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-api-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-api-history .home-project-inside-history header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-api-mock .home-project-inside-mock header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-api-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-api-test .home-project-inside-test header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-code-list .home-project-inside-code-list header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-doc-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-test-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-test-default .home-project-inside-default header .title-ul .btn-li .list-function-wrap .nav-function, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .btn-li .list-function-wrap .nav-function {
         width: 134px;
         margin-left: -10px;
         background-color: #fff;
@@ -5174,17 +5174,17 @@ home-database-list .common-table-div header .title-ul, home-project-api .common-
         border-radius: 3px;
         margin-top: 5px;
         box-shadow: 0 10px 15px rgba(0, 0, 0, 0.05); }
-        home-database-list .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, database-table-list .database-list header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-api-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-api-history .home-project-inside-history header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-api-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-api-mock .home-project-inside-mock header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-api-test .home-project-inside-test header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-code-list .home-project-inside-code-list header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-doc-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-test-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-test-default .home-project-inside-default header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .btn-li .list-function-wrap .nav-function .strong-li {
+        home-database-list .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, database-table-list .database-list header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-api-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-api-history .home-project-inside-history header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-api-mock .home-project-inside-mock header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-api-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-api-test .home-project-inside-test header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-code-list .home-project-inside-code-list header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-doc-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-test-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-test-default .home-project-inside-default header .title-ul .btn-li .list-function-wrap .nav-function .strong-li, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .btn-li .list-function-wrap .nav-function .strong-li {
           font-weight: bold;
           color: #43A047; }
-        home-database-list .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li, database-table-list .database-list header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-api-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-api-history .home-project-inside-history header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-api-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-api-mock .home-project-inside-mock header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-api-test .home-project-inside-test header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-code-list .home-project-inside-code-list header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-doc-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-test-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-test-default .home-project-inside-default header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .btn-li .list-function-wrap .nav-function li {
+        home-database-list .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li, database-table-list .database-list header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-api-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-api-history .home-project-inside-history header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-api-mock .home-project-inside-mock header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-api-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-api-test .home-project-inside-test header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-code-list .home-project-inside-code-list header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-doc-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-test-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-test-default .home-project-inside-default header .title-ul .btn-li .list-function-wrap .nav-function li, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .btn-li .list-function-wrap .nav-function li {
           cursor: pointer;
           text-align: left;
           text-indent: 18px;
           font-size: 12px;
           height: 33px;
           line-height: 33px; }
-          home-database-list .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li:hover, database-table-list .database-list header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-api-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-api-history .home-project-inside-history header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-api-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-api-mock .home-project-inside-mock header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-api-test .home-project-inside-test header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-code-list .home-project-inside-code-list header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-doc-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-test-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-test-default .home-project-inside-default header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-database-list .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li:focus, database-table-list .database-list header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-api-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-api-history .home-project-inside-history header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-api-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-api-mock .home-project-inside-mock header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-api-test .home-project-inside-test header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-code-list .home-project-inside-code-list header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-doc-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-test-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-test-default .home-project-inside-default header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-database-list .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li:active, database-table-list .database-list header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-api-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-api-history .home-project-inside-history header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-api-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-api-mock .home-project-inside-mock header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-api-test .home-project-inside-test header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-code-list .home-project-inside-code-list header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-doc-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-test-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-test-default .home-project-inside-default header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .btn-li .list-function-wrap .nav-function li:active {
+          home-database-list .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li:hover, database-table-list .database-list header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-api-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-api-history .home-project-inside-history header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-api-mock .home-project-inside-mock header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-api-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-api-test .home-project-inside-test header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-code-list .home-project-inside-code-list header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-doc-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-test-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-test-default .home-project-inside-default header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .btn-li .list-function-wrap .nav-function li:hover, home-database-list .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li:focus, database-table-list .database-list header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-api-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-api-history .home-project-inside-history header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-api-mock .home-project-inside-mock header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-api-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-api-test .home-project-inside-test header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-code-list .home-project-inside-code-list header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-doc-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-test-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-test-default .home-project-inside-default header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .btn-li .list-function-wrap .nav-function li:focus, home-database-list .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li:active, database-table-list .database-list header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-api-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-api-detail .home-project-inside-detail > header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-api-history .home-project-inside-history header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-api-mock .home-project-inside-mock header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-api-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-api-test .home-project-inside-test header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-code-list .home-project-inside-code-list header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-doc-detail .home-project-inside-detail header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-doc-edit .home-project-inside-edit header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-doc-list .home-project-inside-list header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-test-api .common-table-div header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-test-default .home-project-inside-default header .title-ul .btn-li .list-function-wrap .nav-function li:active, home-project-inside-test-edit-singal .automated-test-singleton header .title-ul .btn-li .list-function-wrap .nav-function li:active {
             background-color: #fafafa;
             border: none;
             border-radius: 0;
@@ -5312,7 +5312,7 @@ database .shrink-inside-div .inside-sidebar .common-sidebar, home-project-inside
     database .shrink-inside-div .inside-sidebar .common-sidebar .item-li:hover .group-name span, home-project-inside .shrink-inside-div .inside-sidebar .common-sidebar .item-li:hover .group-name span, database .shrink-inside-div .inside-sidebar .common-sidebar .item-li:hover .group-name p, home-project-inside .shrink-inside-div .inside-sidebar .common-sidebar .item-li:hover .group-name p {
       color: #fff; }
 
-home .home-content, index, database .database, database .database .database-content {
+index, home .home-content, database .database, database .database .database-content {
   position: absolute;
   height: 100%;
   width: 100%;
@@ -5336,7 +5336,7 @@ home .home-content, index, database .database, database .database .database-cont
     .eo-footer p a {
       color: #1E88E5; }
 
-eo-navbar0 .nav-0, eo-navbar1 .nav-1, eo-navbar2 .nav-2 {
+eo-navbar0 .nav-0, eo-navbar2 .nav-2, eo-navbar1 .nav-1 {
   top: 0;
   left: 0;
   width: 100%;
@@ -5344,19 +5344,19 @@ eo-navbar0 .nav-0, eo-navbar1 .nav-1, eo-navbar2 .nav-2 {
   border: none;
   z-index: 9;
   min-width: 1000px; }
-  eo-navbar0 .nav-0 .nav-header, eo-navbar1 .nav-1 .nav-header, eo-navbar2 .nav-2 .nav-header {
+  eo-navbar0 .nav-0 .nav-header, eo-navbar2 .nav-2 .nav-header, eo-navbar1 .nav-1 .nav-header {
     width: -webkit-calc(100% - 40px);
     width: -ms-calc(100% - 40px);
     width: -moz-calc(100% - 40px);
     width: calc(100% - 40px);
     margin: 0 auto;
     font-size: 14px; }
-    eo-navbar0 .nav-0 .nav-header img, eo-navbar1 .nav-1 .nav-header img, eo-navbar2 .nav-2 .nav-header img {
+    eo-navbar0 .nav-0 .nav-header img, eo-navbar2 .nav-2 .nav-header img, eo-navbar1 .nav-1 .nav-header img {
       cursor: pointer;
       vertical-align: middle; }
-  eo-navbar0 .nav-0 .nav-header > ul > li, eo-navbar1 .nav-1 .nav-header > ul > li, eo-navbar2 .nav-2 .nav-header > ul > li {
+  eo-navbar0 .nav-0 .nav-header > ul > li, eo-navbar2 .nav-2 .nav-header > ul > li, eo-navbar1 .nav-1 .nav-header > ul > li {
     vertical-align: middle; }
-  eo-navbar0 .nav-0 .nav-header > ul > li > a, eo-navbar1 .nav-1 .nav-header > ul > li > a, eo-navbar2 .nav-2 .nav-header > ul > li > a {
+  eo-navbar0 .nav-0 .nav-header > ul > li > a, eo-navbar2 .nav-2 .nav-header > ul > li > a, eo-navbar1 .nav-1 .nav-header > ul > li > a {
     vertical-align: middle;
     padding-right: 20px; }
 
@@ -5381,58 +5381,58 @@ eo-navbar1 .nav-1 .nav-header .register-function {
       background-color: #4CAF50;
       border: 1px solid #43A047; }
 
-eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .nav-hide-ul, eo-navbar1 .nav-1 .nav-header .list-function .nav-hide-ul, eo-navbar2 .nav-2 .nav-header .list-function .nav-hide-ul {
+eo-navbar2 .nav-2 .nav-header .list-function .nav-hide-ul, eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .nav-hide-ul, eo-navbar1 .nav-1 .nav-header .list-function .nav-hide-ul {
   background-color: #fff;
   width: 200px;
   border: 1px solid #e7e7e7;
   border-radius: 3px;
   margin-top: 5px; }
-  eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .nav-hide-ul a, eo-navbar1 .nav-1 .nav-header .list-function .nav-hide-ul a, eo-navbar2 .nav-2 .nav-header .list-function .nav-hide-ul a {
+  eo-navbar2 .nav-2 .nav-header .list-function .nav-hide-ul a, eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .nav-hide-ul a, eo-navbar1 .nav-1 .nav-header .list-function .nav-hide-ul a {
     padding: 0;
     text-indent: 0; }
-  eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .nav-hide-ul .iconfont, eo-navbar1 .nav-1 .nav-header .list-function .nav-hide-ul .iconfont, eo-navbar2 .nav-2 .nav-header .list-function .nav-hide-ul .iconfont {
+  eo-navbar2 .nav-2 .nav-header .list-function .nav-hide-ul .iconfont, eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .nav-hide-ul .iconfont, eo-navbar1 .nav-1 .nav-header .list-function .nav-hide-ul .iconfont {
     color: #333;
     float: right;
     height: 43px;
     line-height: 43px; }
-  eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .nav-hide-ul li, eo-navbar1 .nav-1 .nav-header .list-function .nav-hide-ul li, eo-navbar2 .nav-2 .nav-header .list-function .nav-hide-ul li {
+  eo-navbar2 .nav-2 .nav-header .list-function .nav-hide-ul li, eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .nav-hide-ul li, eo-navbar1 .nav-1 .nav-header .list-function .nav-hide-ul li {
     float: none;
     cursor: pointer;
     font-weight: initial;
     text-align: left;
     height: auto; }
-  eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .nav-hide-ul .title, eo-navbar1 .nav-1 .nav-header .list-function .nav-hide-ul .title, eo-navbar2 .nav-2 .nav-header .list-function .nav-hide-ul .title {
+  eo-navbar2 .nav-2 .nav-header .list-function .nav-hide-ul .title, eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .nav-hide-ul .title, eo-navbar1 .nav-1 .nav-header .list-function .nav-hide-ul .title {
     height: 43px;
     line-height: 43px;
     padding: 10px 10px;
     border-bottom: 1px solid #f1f1f1;
     cursor: default; }
-    eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .nav-hide-ul .title p, eo-navbar1 .nav-1 .nav-header .list-function .nav-hide-ul .title p, eo-navbar2 .nav-2 .nav-header .list-function .nav-hide-ul .title p {
+    eo-navbar2 .nav-2 .nav-header .list-function .nav-hide-ul .title p, eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .nav-hide-ul .title p, eo-navbar1 .nav-1 .nav-header .list-function .nav-hide-ul .title p {
       height: 22px;
       line-height: 22px; }
-    eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .nav-hide-ul .title .nickname-p, eo-navbar1 .nav-1 .nav-header .list-function .nav-hide-ul .title .nickname-p, eo-navbar2 .nav-2 .nav-header .list-function .nav-hide-ul .title .nickname-p {
+    eo-navbar2 .nav-2 .nav-header .list-function .nav-hide-ul .title .nickname-p, eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .nav-hide-ul .title .nickname-p, eo-navbar1 .nav-1 .nav-header .list-function .nav-hide-ul .title .nickname-p {
       font-weight: bold; }
-    eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .nav-hide-ul .title .username-p, eo-navbar1 .nav-1 .nav-header .list-function .nav-hide-ul .title .username-p, eo-navbar2 .nav-2 .nav-header .list-function .nav-hide-ul .title .username-p {
+    eo-navbar2 .nav-2 .nav-header .list-function .nav-hide-ul .title .username-p, eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .nav-hide-ul .title .username-p, eo-navbar1 .nav-1 .nav-header .list-function .nav-hide-ul .title .username-p {
       font-size: 12px;
       color: #999; }
-  eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .nav-hide-ul li:last-child, eo-navbar1 .nav-1 .nav-header .list-function .nav-hide-ul li:last-child, eo-navbar2 .nav-2 .nav-header .list-function .nav-hide-ul li:last-child {
+  eo-navbar2 .nav-2 .nav-header .list-function .nav-hide-ul li:last-child, eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .nav-hide-ul li:last-child, eo-navbar1 .nav-1 .nav-header .list-function .nav-hide-ul li:last-child {
     margin: 0; }
-  eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .nav-hide-ul .list-function-detail li, eo-navbar1 .nav-1 .nav-header .list-function .nav-hide-ul .list-function-detail li, eo-navbar2 .nav-2 .nav-header .list-function .nav-hide-ul .list-function-detail li {
+  eo-navbar2 .nav-2 .nav-header .list-function .nav-hide-ul .list-function-detail li, eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .nav-hide-ul .list-function-detail li, eo-navbar1 .nav-1 .nav-header .list-function .nav-hide-ul .list-function-detail li {
     padding: 0 10px;
     height: 43px;
     line-height: 43px; }
-    eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .nav-hide-ul .list-function-detail li:hover, eo-navbar1 .nav-1 .nav-header .list-function .nav-hide-ul .list-function-detail li:hover, eo-navbar2 .nav-2 .nav-header .list-function .nav-hide-ul .list-function-detail li:hover {
+    eo-navbar2 .nav-2 .nav-header .list-function .nav-hide-ul .list-function-detail li:hover, eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .nav-hide-ul .list-function-detail li:hover, eo-navbar1 .nav-1 .nav-header .list-function .nav-hide-ul .list-function-detail li:hover {
       background-color: #f0f0f0; }
 
-eo-navbar1 .nav-1 .nav-header .list-function, eo-navbar2 .nav-2 .nav-header .list-function {
+eo-navbar2 .nav-2 .nav-header .list-function, eo-navbar1 .nav-1 .nav-header .list-function {
   float: right;
   font-weight: initial; }
 
-eo-navbar1 .nav-1 .nav-header .list-function .news-btn, eo-navbar2 .nav-2 .nav-header .list-function .news-btn {
+eo-navbar2 .nav-2 .nav-header .list-function .news-btn, eo-navbar1 .nav-1 .nav-header .list-function .news-btn {
   width: auto; }
-  eo-navbar1 .nav-1 .nav-header .list-function .news-btn .iconfont, eo-navbar2 .nav-2 .nav-header .list-function .news-btn .iconfont {
+  eo-navbar2 .nav-2 .nav-header .list-function .news-btn .iconfont, eo-navbar1 .nav-1 .nav-header .list-function .news-btn .iconfont {
     margin-right: 5px; }
-  eo-navbar1 .nav-1 .nav-header .list-function .news-btn:hover, eo-navbar2 .nav-2 .nav-header .list-function .news-btn:hover {
+  eo-navbar2 .nav-2 .nav-header .list-function .news-btn:hover, eo-navbar1 .nav-1 .nav-header .list-function .news-btn:hover {
     background: none;
     color: #333; }
 
@@ -5853,26 +5853,6 @@ tip-directive {
   tip-directive:hover .tips-message {
     visibility: visible; }
 
-auto-complete-ams-component > div {
-  display: inline-table;
-  width: 100%; }
-
-auto-complete-ams-component .auto-complete-message {
-  position: absolute;
-  z-index: 6;
-  height: 100px;
-  background-color: #fff;
-  border: 1px solid #e5e5e5;
-  overflow-y: scroll; }
-
-auto-complete-ams-component #icon-magic {
-  margin-left: -70px;
-  border-radius: 0;
-  border: none; }
-
-auto-complete-ams-component .auto-complete-li:hover {
-  background-color: #f5f5f5; }
-
 env-ams-component .en-v-li {
   display: inline-block; }
   env-ams-component .en-v-li .child-input-li {
@@ -6105,6 +6085,26 @@ report-ams-component .report-ams-mask {
   top: 0;
   left: 0;
   z-index: 10; }
+
+auto-complete-ams-component > div {
+  display: inline-table;
+  width: 100%; }
+
+auto-complete-ams-component .auto-complete-message {
+  position: absolute;
+  z-index: 6;
+  height: 100px;
+  background-color: #fff;
+  border: 1px solid #e5e5e5;
+  overflow-y: scroll; }
+
+auto-complete-ams-component #icon-magic {
+  margin-left: -70px;
+  border-radius: 0;
+  border: none; }
+
+auto-complete-ams-component .auto-complete-li:hover {
+  background-color: #f5f5f5; }
 
 group-common-component .home-project-inside-group .account-span {
   color: #999; }
@@ -6406,6 +6406,104 @@ guide {
   .guide-button .eo-button-success:hover {
     border-radius: 17px; }
 
+index {
+  display: table; }
+  index .login-wrap {
+    vertical-align: middle;
+    display: table-cell; }
+    index .login-wrap header {
+      margin-top: -100px;
+      text-align: center; }
+      index .login-wrap header .icon-eoLinkerAMS {
+        display: inline-block;
+        font-size: 200px; }
+      index .login-wrap header .font {
+        line-height: 200px;
+        margin-left: 20px;
+        font-weight: lighter; }
+      index .login-wrap header span {
+        height: 180px;
+        display: inline-block;
+        vertical-align: middle;
+        font-size: 50px; }
+    index .login-wrap .login-content {
+      width: 655px;
+      margin: 20px auto 0;
+      text-align: left;
+      padding-bottom: 100px;
+      font-size: 15px; }
+      index .login-wrap .login-content article li {
+        margin-bottom: 15px;
+        height: 37px;
+        line-height: 37px; }
+        index .login-wrap .login-content article li label {
+          width: 75px;
+          text-align: right;
+          display: inline-block;
+          margin-right: 20px; }
+        index .login-wrap .login-content article li .icon-style {
+          position: absolute;
+          height: 18px;
+          line-height: 18px;
+          padding: 0 9px;
+          top: 2px;
+          right: 12px;
+          margin-left: -45px;
+          background: #fff;
+          margin-top: 9px; }
+          index .login-wrap .login-content article li .icon-style .iconfont {
+            color: #999; }
+            index .login-wrap .login-content article li .icon-style .iconfont:hover, index .login-wrap .login-content article li .icon-style .iconfont:focus, index .login-wrap .login-content article li .icon-style .iconfont:active {
+              color: #333; }
+        index .login-wrap .login-content article li .checkbox-label {
+          border: 1px solid #dcdcdc;
+          height: 23px;
+          line-height: 26px;
+          width: 23px;
+          font-size: 13px;
+          margin-right: 4px;
+          cursor: pointer;
+          display: inline-block;
+          text-align: center;
+          border-radius: 3px; }
+      index .login-wrap .login-content article li:nth-child(n+4) {
+        margin-bottom: 25px; }
+      index .login-wrap .login-content article li:last-child {
+        text-align: right; }
+        index .login-wrap .login-content article li:last-child .common-btn {
+          width: inherit; }
+      index .login-wrap .login-content article .eo-input {
+        width: 200px;
+        margin-right: 10px; }
+      index .login-wrap .login-content article .eo-button-success,
+      index .login-wrap .login-content article .eo-button-default {
+        text-align: left;
+        width: 225px;
+        text-indent: 10px; }
+        index .login-wrap .login-content article .eo-button-success span,
+        index .login-wrap .login-content article .eo-button-default span {
+          margin-right: 10px; }
+      index .login-wrap .login-content article .common-btn {
+        margin-right: 11px;
+        color: #666;
+        font-size: 14px;
+        cursor: pointer; }
+        index .login-wrap .login-content article .common-btn:hover {
+          color: #333; }
+    index .login-wrap footer {
+      border-top: 1px solid #e5e5e5;
+      height: 50px;
+      line-height: 50px;
+      width: 100%;
+      background-color: #f1f1f1;
+      position: fixed;
+      bottom: 0; }
+      index .login-wrap footer p {
+        text-align: center;
+        font-size: 14px; }
+        index .login-wrap footer p a {
+          color: #1E88E5; }
+
 .modal-open .modal-content .api-management-modal-automated-select-api article .first-level-article table tbody .elem-active:nth-child(odd), home-project-inside-api-list .home-project-inside-list .first-level-article table tbody .elem-active:nth-child(odd), home-project-inside-code-list .home-project-inside-code-list .first-level-article table tbody .elem-active:nth-child(odd), home-project-inside-doc-list .home-project-inside-list .first-level-article table tbody .elem-active:nth-child(odd), home-project-inside-test-default .home-project-inside-default .first-level-article table tbody .elem-active:nth-child(odd), .modal-open .modal-content .api-management-modal-automated-select-api article .first-level-article table tbody .elem-active:nth-child(even), home-project-inside-api-list .home-project-inside-list .first-level-article table tbody .elem-active:nth-child(even), home-project-inside-code-list .home-project-inside-code-list .first-level-article table tbody .elem-active:nth-child(even), home-project-inside-doc-list .home-project-inside-list .first-level-article table tbody .elem-active:nth-child(even), home-project-inside-test-default .home-project-inside-default .first-level-article table tbody .elem-active:nth-child(even) {
   background-color: #ffecb3; }
 
@@ -6674,104 +6772,6 @@ home .shrink-div .home-content .home-div,
 home .shrink-inside-div .home-content .home-div {
   margin-left: 51px; }
 
-index {
-  display: table; }
-  index .login-wrap {
-    vertical-align: middle;
-    display: table-cell; }
-    index .login-wrap header {
-      margin-top: -100px;
-      text-align: center; }
-      index .login-wrap header .icon-eoLinkerAMS {
-        display: inline-block;
-        font-size: 200px; }
-      index .login-wrap header .font {
-        line-height: 200px;
-        margin-left: 20px;
-        font-weight: lighter; }
-      index .login-wrap header span {
-        height: 180px;
-        display: inline-block;
-        vertical-align: middle;
-        font-size: 50px; }
-    index .login-wrap .login-content {
-      width: 655px;
-      margin: 20px auto 0;
-      text-align: left;
-      padding-bottom: 100px;
-      font-size: 15px; }
-      index .login-wrap .login-content article li {
-        margin-bottom: 15px;
-        height: 37px;
-        line-height: 37px; }
-        index .login-wrap .login-content article li label {
-          width: 75px;
-          text-align: right;
-          display: inline-block;
-          margin-right: 20px; }
-        index .login-wrap .login-content article li .icon-style {
-          position: absolute;
-          height: 18px;
-          line-height: 18px;
-          padding: 0 9px;
-          top: 2px;
-          right: 12px;
-          margin-left: -45px;
-          background: #fff;
-          margin-top: 9px; }
-          index .login-wrap .login-content article li .icon-style .iconfont {
-            color: #999; }
-            index .login-wrap .login-content article li .icon-style .iconfont:hover, index .login-wrap .login-content article li .icon-style .iconfont:focus, index .login-wrap .login-content article li .icon-style .iconfont:active {
-              color: #333; }
-        index .login-wrap .login-content article li .checkbox-label {
-          border: 1px solid #dcdcdc;
-          height: 23px;
-          line-height: 26px;
-          width: 23px;
-          font-size: 13px;
-          margin-right: 4px;
-          cursor: pointer;
-          display: inline-block;
-          text-align: center;
-          border-radius: 3px; }
-      index .login-wrap .login-content article li:nth-child(n+4) {
-        margin-bottom: 25px; }
-      index .login-wrap .login-content article li:last-child {
-        text-align: right; }
-        index .login-wrap .login-content article li:last-child .common-btn {
-          width: inherit; }
-      index .login-wrap .login-content article .eo-input {
-        width: 200px;
-        margin-right: 10px; }
-      index .login-wrap .login-content article .eo-button-success,
-      index .login-wrap .login-content article .eo-button-default {
-        text-align: left;
-        width: 225px;
-        text-indent: 10px; }
-        index .login-wrap .login-content article .eo-button-success span,
-        index .login-wrap .login-content article .eo-button-default span {
-          margin-right: 10px; }
-      index .login-wrap .login-content article .common-btn {
-        margin-right: 11px;
-        color: #666;
-        font-size: 14px;
-        cursor: pointer; }
-        index .login-wrap .login-content article .common-btn:hover {
-          color: #333; }
-    index .login-wrap footer {
-      border-top: 1px solid #e5e5e5;
-      height: 50px;
-      line-height: 50px;
-      width: 100%;
-      background-color: #f1f1f1;
-      position: fixed;
-      bottom: 0; }
-      index .login-wrap footer p {
-        text-align: center;
-        font-size: 14px; }
-        index .login-wrap footer p a {
-          color: #1E88E5; }
-
 eo-navbar0 .nav-0 {
   position: absolute;
   border-bottom: 1px solid #ededed; }
@@ -6793,65 +6793,6 @@ eo-navbar0 .nav-0 {
         cursor: pointer; }
       eo-navbar0 .nav-0 .nav-header li .nav-li:hover {
         color: #4CAF50; }
-
-eo-navbar1 .nav-1 {
-  position: absolute;
-  border-bottom: 1px solid #ededed; }
-  eo-navbar1 .nav-1 .nav-header li {
-    height: 60px;
-    line-height: 58px; }
-    eo-navbar1 .nav-1 .nav-header li .nav-li {
-      padding: 0;
-      min-width: 68px;
-      height: 30px;
-      line-height: 32px;
-      color: #777;
-      display: inline-block;
-      text-align: center;
-      border-radius: 3px;
-      margin-right: 15px;
-      vertical-align: inherit; }
-      eo-navbar1 .nav-1 .nav-header li .nav-li .iconfont {
-        cursor: pointer; }
-      eo-navbar1 .nav-1 .nav-header li .nav-li:hover {
-        color: #4CAF50; }
-    eo-navbar1 .nav-1 .nav-header li .icon-hot {
-      color: #ff0000;
-      position: absolute;
-      top: -12px;
-      right: -1px;
-      font-size: 30px; }
-  eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap {
-    position: absolute;
-    cursor: default;
-    display: none; }
-    eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .iconfont {
-      margin: 0;
-      cursor: pointer; }
-  eo-navbar1 .nav-1 .nav-header .navbar-li-function:hover .list-function-wrap {
-    display: inherit; }
-  eo-navbar1 .nav-1 .nav-header .list-function .list {
-    border: 1px solid #e7e7e7;
-    background-color: #fff;
-    margin-left: 5px;
-    margin-right: 0;
-    cursor: pointer; }
-    eo-navbar1 .nav-1 .nav-header .list-function .list:hover {
-      background-color: #4CAF50;
-      border: 1px solid #43A047; }
-      eo-navbar1 .nav-1 .nav-header .list-function .list:hover ul {
-        display: block; }
-      eo-navbar1 .nav-1 .nav-header .list-function .list:hover .first-icon {
-        color: #fff; }
-    eo-navbar1 .nav-1 .nav-header .list-function .list .list-function-wrap {
-      position: absolute;
-      cursor: default;
-      margin-left: -131px;
-      margin-top: -2px; }
-  eo-navbar1 .nav-1 .nav-header .list-function ul {
-    display: none; }
-  eo-navbar1 .nav-1 .nav-header .active a {
-    color: #4CAF50; }
 
 eo-navbar2 .nav-2 {
   position: fixed;
@@ -6989,6 +6930,65 @@ eo-navbar2 .nav-2 {
 .shrink-div eo-navbar2 .nav-2 .nav-header .project-controller-li .menu-item {
   display: none; }
 
+eo-navbar1 .nav-1 {
+  position: absolute;
+  border-bottom: 1px solid #ededed; }
+  eo-navbar1 .nav-1 .nav-header li {
+    height: 60px;
+    line-height: 58px; }
+    eo-navbar1 .nav-1 .nav-header li .nav-li {
+      padding: 0;
+      min-width: 68px;
+      height: 30px;
+      line-height: 32px;
+      color: #777;
+      display: inline-block;
+      text-align: center;
+      border-radius: 3px;
+      margin-right: 15px;
+      vertical-align: inherit; }
+      eo-navbar1 .nav-1 .nav-header li .nav-li .iconfont {
+        cursor: pointer; }
+      eo-navbar1 .nav-1 .nav-header li .nav-li:hover {
+        color: #4CAF50; }
+    eo-navbar1 .nav-1 .nav-header li .icon-hot {
+      color: #ff0000;
+      position: absolute;
+      top: -12px;
+      right: -1px;
+      font-size: 30px; }
+  eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap {
+    position: absolute;
+    cursor: default;
+    display: none; }
+    eo-navbar1 .nav-1 .nav-header .navbar-li-function .list-function-wrap .iconfont {
+      margin: 0;
+      cursor: pointer; }
+  eo-navbar1 .nav-1 .nav-header .navbar-li-function:hover .list-function-wrap {
+    display: inherit; }
+  eo-navbar1 .nav-1 .nav-header .list-function .list {
+    border: 1px solid #e7e7e7;
+    background-color: #fff;
+    margin-left: 5px;
+    margin-right: 0;
+    cursor: pointer; }
+    eo-navbar1 .nav-1 .nav-header .list-function .list:hover {
+      background-color: #4CAF50;
+      border: 1px solid #43A047; }
+      eo-navbar1 .nav-1 .nav-header .list-function .list:hover ul {
+        display: block; }
+      eo-navbar1 .nav-1 .nav-header .list-function .list:hover .first-icon {
+        color: #fff; }
+    eo-navbar1 .nav-1 .nav-header .list-function .list .list-function-wrap {
+      position: absolute;
+      cursor: default;
+      margin-left: -131px;
+      margin-top: -2px; }
+  eo-navbar1 .nav-1 .nav-header .list-function ul {
+    display: none; }
+  eo-navbar1 .nav-1 .nav-header .active a {
+    color: #4CAF50; }
+
 ace-editor-ams-directive {
   display: block;
   border: 1px solid #e5e5e5;
@@ -6999,6 +6999,78 @@ ace-editor-ams-directive {
   width: -ms-calc(100% - 32px);
   width: -moz-calc(100% - 32px);
   width: calc(100% - 32px); }
+
+.modal-open .modal-content .common-modal-upload-file article .container-li:nth-child(n+2) {
+  margin-top: 10px; }
+
+.modal-open .modal-content .common-modal-upload-file article .group-ul {
+  display: inline-block; }
+  .modal-open .modal-content .common-modal-upload-file article .group-ul .eo-input {
+    margin-top: 10px;
+    width: 100%;
+    display: inline-block;
+    line-height: 33px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap; }
+  .modal-open .modal-content .common-modal-upload-file article .group-ul label {
+    color: #999;
+    cursor: pointer; }
+  .modal-open .modal-content .common-modal-upload-file article .group-ul select {
+    text-indent: 0;
+    color: #333; }
+
+.modal-open .modal-content .common-modal-upload-file article .group-inherit {
+  width: 100%; }
+
+.modal-open .modal-content .common-modal-upload-file article .group-name {
+  width: 60%; }
+
+.modal-open .modal-content .common-modal-upload-file article .group-select:nth-last-child(n+2) {
+  width: -webkit-calc(33.33333% - 10px);
+  width: -ms-calc(33.33333% - 10px);
+  width: -moz-calc(33.33333% - 10px);
+  width: calc(33.33333% - 10px);
+  margin-right: 10px; }
+
+.modal-open .modal-content .common-modal-upload-file article .group-select:last-child {
+  width: -webkit-calc(33.33333% - 1px);
+  width: -ms-calc(33.33333% - 1px);
+  width: -moz-calc(33.33333% - 1px);
+  width: calc(33.33333% - 1px); }
+
+.modal-open .modal-content .common-modal-recover-api article .container-li:nth-child(n+2) {
+  margin-top: 10px; }
+
+.modal-open .modal-content .common-modal-recover-api article .group-ul {
+  display: inline-block; }
+  .modal-open .modal-content .common-modal-recover-api article .group-ul .eo-input {
+    margin-top: 10px;
+    width: 100%;
+    display: inline-block;
+    line-height: 33px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap; }
+  .modal-open .modal-content .common-modal-recover-api article .group-ul label {
+    color: #999;
+    cursor: pointer; }
+  .modal-open .modal-content .common-modal-recover-api article .group-ul select {
+    text-indent: 0;
+    color: #333; }
+
+.modal-open .modal-content .common-modal-recover-api article .group-select:nth-last-child(n+2) {
+  width: -webkit-calc(33.33333% - 10px);
+  width: -ms-calc(33.33333% - 10px);
+  width: -moz-calc(33.33333% - 10px);
+  width: calc(33.33333% - 10px);
+  margin-right: 10px; }
+
+.modal-open .modal-content .common-modal-recover-api article .group-select:last-child {
+  width: -webkit-calc(33.33333% - 1px);
+  width: -ms-calc(33.33333% - 1px);
+  width: -moz-calc(33.33333% - 1px);
+  width: calc(33.33333% - 1px); }
 
 .modal-open .modal-content .api-management-modal-auto-generation {
   width: 640px;
@@ -7372,105 +7444,6 @@ ace-editor-ams-directive {
     width: -moz-calc(33.33333% - 1px);
     width: calc(33.33333% - 1px); }
 
-.modal-open .modal-content .common-modal-upload-file article .container-li:nth-child(n+2) {
-  margin-top: 10px; }
-
-.modal-open .modal-content .common-modal-upload-file article .group-ul {
-  display: inline-block; }
-  .modal-open .modal-content .common-modal-upload-file article .group-ul .eo-input {
-    margin-top: 10px;
-    width: 100%;
-    display: inline-block;
-    line-height: 33px;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap; }
-  .modal-open .modal-content .common-modal-upload-file article .group-ul label {
-    color: #999;
-    cursor: pointer; }
-  .modal-open .modal-content .common-modal-upload-file article .group-ul select {
-    text-indent: 0;
-    color: #333; }
-
-.modal-open .modal-content .common-modal-upload-file article .group-inherit {
-  width: 100%; }
-
-.modal-open .modal-content .common-modal-upload-file article .group-name {
-  width: 60%; }
-
-.modal-open .modal-content .common-modal-upload-file article .group-select:nth-last-child(n+2) {
-  width: -webkit-calc(33.33333% - 10px);
-  width: -ms-calc(33.33333% - 10px);
-  width: -moz-calc(33.33333% - 10px);
-  width: calc(33.33333% - 10px);
-  margin-right: 10px; }
-
-.modal-open .modal-content .common-modal-upload-file article .group-select:last-child {
-  width: -webkit-calc(33.33333% - 1px);
-  width: -ms-calc(33.33333% - 1px);
-  width: -moz-calc(33.33333% - 1px);
-  width: calc(33.33333% - 1px); }
-
-.modal-open .modal-content .common-modal-recover-api article .container-li:nth-child(n+2) {
-  margin-top: 10px; }
-
-.modal-open .modal-content .common-modal-recover-api article .group-ul {
-  display: inline-block; }
-  .modal-open .modal-content .common-modal-recover-api article .group-ul .eo-input {
-    margin-top: 10px;
-    width: 100%;
-    display: inline-block;
-    line-height: 33px;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap; }
-  .modal-open .modal-content .common-modal-recover-api article .group-ul label {
-    color: #999;
-    cursor: pointer; }
-  .modal-open .modal-content .common-modal-recover-api article .group-ul select {
-    text-indent: 0;
-    color: #333; }
-
-.modal-open .modal-content .common-modal-recover-api article .group-select:nth-last-child(n+2) {
-  width: -webkit-calc(33.33333% - 10px);
-  width: -ms-calc(33.33333% - 10px);
-  width: -moz-calc(33.33333% - 10px);
-  width: calc(33.33333% - 10px);
-  margin-right: 10px; }
-
-.modal-open .modal-content .common-modal-recover-api article .group-select:last-child {
-  width: -webkit-calc(33.33333% - 1px);
-  width: -ms-calc(33.33333% - 1px);
-  width: -moz-calc(33.33333% - 1px);
-  width: calc(33.33333% - 1px); }
-
-.install-error {
-  background-color: #fff;
-  box-shadow: 0px 10px 15px #dcdcdc;
-  border-radius: 5px;
-  padding: 25px 25px; }
-  .install-error ul li {
-    margin-bottom: 10px;
-    word-break: normal; }
-    .install-error ul li a {
-      color: #4ab24e; }
-  .install-error .eo-button-success:hover {
-    border-radius: 17px; }
-
-.finish {
-  background-color: #fff;
-  box-shadow: 0px 10px 15px #dcdcdc;
-  border-radius: 5px;
-  padding: 25px 25px; }
-  .finish ul li {
-    margin-bottom: 10px; }
-    .finish ul li .smile {
-      font-size: 16px; }
-    .finish ul li a {
-      color: #4ab24e; }
-  .finish .eo-button-success:hover {
-    border-radius: 17px; }
-
 .guide-first-step {
   background-color: #fff;
   box-shadow: 0px 10px 15px #dcdcdc;
@@ -7487,51 +7460,32 @@ ace-editor-ams-directive {
   .guide-first-step .eo-button-success:hover {
     border-radius: 17px; }
 
-.guide-second-step {
+.finish {
   background-color: #fff;
   box-shadow: 0px 10px 15px #dcdcdc;
   border-radius: 5px;
   padding: 25px 25px; }
-  .guide-second-step .install-head {
+  .finish ul li {
     margin-bottom: 10px; }
-  .guide-second-step ul li {
-    margin-bottom: 10px; }
-    .guide-second-step ul li .message {
-      display: inline-block;
-      font-weight: bold; }
-    .guide-second-step ul li .eo-input {
-      width: 680px; }
-  .guide-second-step .install-tips {
-    margin-top: 30px; }
-    .guide-second-step .install-tips a {
+    .finish ul li .smile {
+      font-size: 16px; }
+    .finish ul li a {
       color: #4ab24e; }
-  .guide-second-step .eo-button-success:hover {
+  .finish .eo-button-success:hover {
     border-radius: 17px; }
 
-.installing .installing-wrap {
-  width: 100px;
-  margin: 0 auto; }
-
-.installing .icon-wrap {
-  width: 50px;
-  height: 50px;
-  line-height: 51px;
-  margin-left: 14px;
-  animation: load 1.7s infinite ease;
-  -webkit-animation: load 1.7s infinite ease;
-  -moz-animation: load 1.7s infinite ease;
-  -o-animation: load 1.7s infinite ease; }
-  .installing .icon-wrap span {
-    display: block;
-    font-size: 50px;
-    color: #555;
-    height: 50px;
-    line-height: 51px; }
-
-.installing p {
-  font-size: 16px;
-  width: 70px;
-  margin: 0 auto; }
+.install-error {
+  background-color: #fff;
+  box-shadow: 0px 10px 15px #dcdcdc;
+  border-radius: 5px;
+  padding: 25px 25px; }
+  .install-error ul li {
+    margin-bottom: 10px;
+    word-break: normal; }
+    .install-error ul li a {
+      color: #4ab24e; }
+  .install-error .eo-button-success:hover {
+    border-radius: 17px; }
 
 .guide-third-step {
   background-color: #fff;
@@ -7581,6 +7535,52 @@ ace-editor-ams-directive {
     color: #555;
     height: 50px;
     line-height: 55px; }
+
+.installing p {
+  font-size: 16px;
+  width: 70px;
+  margin: 0 auto; }
+
+.guide-second-step {
+  background-color: #fff;
+  box-shadow: 0px 10px 15px #dcdcdc;
+  border-radius: 5px;
+  padding: 25px 25px; }
+  .guide-second-step .install-head {
+    margin-bottom: 10px; }
+  .guide-second-step ul li {
+    margin-bottom: 10px; }
+    .guide-second-step ul li .message {
+      display: inline-block;
+      font-weight: bold; }
+    .guide-second-step ul li .eo-input {
+      width: 680px; }
+  .guide-second-step .install-tips {
+    margin-top: 30px; }
+    .guide-second-step .install-tips a {
+      color: #4ab24e; }
+  .guide-second-step .eo-button-success:hover {
+    border-radius: 17px; }
+
+.installing .installing-wrap {
+  width: 100px;
+  margin: 0 auto; }
+
+.installing .icon-wrap {
+  width: 50px;
+  height: 50px;
+  line-height: 51px;
+  margin-left: 14px;
+  animation: load 1.7s infinite ease;
+  -webkit-animation: load 1.7s infinite ease;
+  -moz-animation: load 1.7s infinite ease;
+  -o-animation: load 1.7s infinite ease; }
+  .installing .icon-wrap span {
+    display: block;
+    font-size: 50px;
+    color: #555;
+    height: 50px;
+    line-height: 51px; }
 
 .installing p {
   font-size: 16px;
@@ -7898,6 +7898,62 @@ database .shrink-inside-div .database-team {
 database .shrink-inside-div .home-database-inside-overview {
   margin-left: 51px; }
 
+home-project-api .home-content .home-div {
+  margin-left: 242px; }
+
+home-project-api .common-table-div {
+  padding: 0 10px 10px 10px; }
+  home-project-api .common-table-div .first-level-article {
+    margin-top: 10px;
+    border: 1px solid #e5e5e5;
+    border-radius: 3px; }
+    home-project-api .common-table-div .first-level-article .product-type-span {
+      display: inline-block;
+      width: 40px;
+      margin-right: 5px;
+      text-align: center;
+      text-indent: 0;
+      height: 20px;
+      line-height: 20px; }
+    home-project-api .common-table-div .first-level-article table {
+      font-size: 14px;
+      width: 100%;
+      border-spacing: 0;
+      text-align: left;
+      text-indent: 15px;
+      border-radius: 3px;
+      background: #fff; }
+      home-project-api .common-table-div .first-level-article table thead {
+        font-weight: bold;
+        height: 40px;
+        line-height: 40px; }
+        home-project-api .common-table-div .first-level-article table thead .first-th {
+          min-width: 400px; }
+        home-project-api .common-table-div .first-level-article table thead .second-th {
+          min-width: 90px; }
+        home-project-api .common-table-div .first-level-article table thead .third-th {
+          min-width: 170px; }
+        home-project-api .common-table-div .first-level-article table thead .forth-th {
+          min-width: 220px; }
+      home-project-api .common-table-div .first-level-article table tbody tr {
+        height: 40px;
+        line-height: 40px; }
+        home-project-api .common-table-div .first-level-article table tbody tr th,
+        home-project-api .common-table-div .first-level-article table tbody tr td {
+          cursor: pointer; }
+        home-project-api .common-table-div .first-level-article table tbody tr th {
+          font-weight: initial; }
+        home-project-api .common-table-div .first-level-article table tbody tr td {
+          color: #999; }
+        home-project-api .common-table-div .first-level-article table tbody tr:hover {
+          background-color: #efefef; }
+        home-project-api .common-table-div .first-level-article table tbody tr:first-child td,
+        home-project-api .common-table-div .first-level-article table tbody tr:first-child th {
+          border-top: 1px solid #e5e5e5; }
+
+home-project-api .home-content .home-div {
+  margin-left: 242px; }
+
 home-plug-default .first-level-article {
   border-radius: 0 3px 3px 0;
   border: 1px solid #e5e5e5;
@@ -7980,62 +8036,6 @@ home-plug-default .first-level-article {
 
 .shrink-div home-plug-default .first-level-article {
   margin-left: 301px; }
-
-home-project-api .home-content .home-div {
-  margin-left: 242px; }
-
-home-project-api .common-table-div {
-  padding: 0 10px 10px 10px; }
-  home-project-api .common-table-div .first-level-article {
-    margin-top: 10px;
-    border: 1px solid #e5e5e5;
-    border-radius: 3px; }
-    home-project-api .common-table-div .first-level-article .product-type-span {
-      display: inline-block;
-      width: 40px;
-      margin-right: 5px;
-      text-align: center;
-      text-indent: 0;
-      height: 20px;
-      line-height: 20px; }
-    home-project-api .common-table-div .first-level-article table {
-      font-size: 14px;
-      width: 100%;
-      border-spacing: 0;
-      text-align: left;
-      text-indent: 15px;
-      border-radius: 3px;
-      background: #fff; }
-      home-project-api .common-table-div .first-level-article table thead {
-        font-weight: bold;
-        height: 40px;
-        line-height: 40px; }
-        home-project-api .common-table-div .first-level-article table thead .first-th {
-          min-width: 400px; }
-        home-project-api .common-table-div .first-level-article table thead .second-th {
-          min-width: 90px; }
-        home-project-api .common-table-div .first-level-article table thead .third-th {
-          min-width: 170px; }
-        home-project-api .common-table-div .first-level-article table thead .forth-th {
-          min-width: 220px; }
-      home-project-api .common-table-div .first-level-article table tbody tr {
-        height: 40px;
-        line-height: 40px; }
-        home-project-api .common-table-div .first-level-article table tbody tr th,
-        home-project-api .common-table-div .first-level-article table tbody tr td {
-          cursor: pointer; }
-        home-project-api .common-table-div .first-level-article table tbody tr th {
-          font-weight: initial; }
-        home-project-api .common-table-div .first-level-article table tbody tr td {
-          color: #999; }
-        home-project-api .common-table-div .first-level-article table tbody tr:hover {
-          background-color: #efefef; }
-        home-project-api .common-table-div .first-level-article table tbody tr:first-child td,
-        home-project-api .common-table-div .first-level-article table tbody tr:first-child th {
-          border-top: 1px solid #e5e5e5; }
-
-home-project-api .home-content .home-div {
-  margin-left: 242px; }
 
 home-project-inside header .en-v-li .iconfont {
   color: #333; }
@@ -8780,296 +8780,6 @@ database-table-list .database-list .first-level-article table tbody tr {
         database-table-list .database-list .first-level-article table tbody tr td a:hover .iconfont {
           color: #999; }
 
-home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table tbody .number-label, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table tbody .number-label, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table tbody .number-label {
-  width: 25px;
-  height: 25px;
-  line-height: 25px;
-  border-radius: 3px;
-  background-color: #f2f2f2;
-  color: #9e9e9e;
-  display: inline-block;
-  text-align: center;
-  border: 1px solid #e5e5e5; }
-
-home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table {
-  width: 100%;
-  border-spacing: 0;
-  table-layout: fixed;
-  border-top: 1px solid #e5e5e5; }
-  home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table th, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table th, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table th {
-    font-size: 14px;
-    height: 40px;
-    line-height: 40px;
-    padding-left: 10px;
-    cursor: default;
-    vertical-align: top; }
-  home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table thead, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table thead, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table thead {
-    background-color: #fafafa; }
-    home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table thead tr .num-td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table thead tr .num-td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table thead tr .num-td {
-      width: 30px; }
-    home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table thead tr .operation-td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table thead tr .operation-td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table thead tr .operation-td {
-      width: 45px; }
-  home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table tbody tr:nth-last-child(n+2) td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table tbody tr:nth-last-child(n+2) td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table tbody tr:nth-last-child(n+2) td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table tbody tr:nth-last-child(n+2) th, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table tbody tr:nth-last-child(n+2) th, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table tbody tr:nth-last-child(n+2) th {
-    border-bottom: 1px dashed #e5e5e5; }
-  home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table tbody tr:first-child td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table tbody tr:first-child td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table tbody tr:first-child td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table tbody tr:first-child th, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table tbody tr:first-child th, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table tbody tr:first-child th {
-    border-top: 1px solid #e5e5e5; }
-  home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table tbody tr .get-more-btn, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table tbody tr .get-more-btn, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table tbody tr .get-more-btn {
-    padding: 0 5px;
-    font-size: 12px;
-    height: 27px;
-    line-height: 27px; }
-  home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table tbody .hover-tr .hover-click-td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table tbody .hover-tr .hover-click-td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table tbody .hover-tr .hover-click-td {
-    cursor: pointer; }
-    home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table tbody .hover-tr .hover-click-td *, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table tbody .hover-tr .hover-click-td *, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table tbody .hover-tr .hover-click-td * {
-      cursor: pointer; }
-  home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table tbody .hover-tr:hover, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table tbody .hover-tr:hover, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table tbody .hover-tr:hover {
-    background-color: #fafafa; }
-
-home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table th, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table th, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table td {
-  overflow: hidden;
-  white-space: nowrap;
-  text-overflow: ellipsis;
-  padding-right: 11px; }
-  home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table th:nth-last-child(n+2), home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table th:nth-last-child(n+2), home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table td:nth-last-child(n+2), home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table td:nth-last-child(n+2) {
-    border-right: 1px dashed #e5e5e5; }
-
-home-project-inside-api-detail .home-project-inside-detail {
-  z-index: 0;
-  padding-bottom: 20px; }
-  home-project-inside-api-detail .home-project-inside-detail .first-level-article {
-    padding: 0 10px;
-    margin-top: 10px; }
-    home-project-inside-api-detail .home-project-inside-detail .first-level-article .spreed-btn {
-      font-size: 12px; }
-      home-project-inside-api-detail .home-project-inside-detail .first-level-article .spreed-btn .iconfont {
-        font-size: 12px;
-        margin-right: 5px; }
-      home-project-inside-api-detail .home-project-inside-detail .first-level-article .spreed-btn:hover {
-        color: #25aae2; }
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .spreed-btn:hover .iconfont {
-          color: #25aae2; }
-    home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part {
-      min-height: 48px;
-      background-color: #fff;
-      border: 1px solid #e5e5e5;
-      border-radius: 3px;
-      padding: 10px; }
-      home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-status {
-        padding: 0 5px;
-        margin-right: 5px;
-        height: 48px;
-        line-height: 48px;
-        color: #fff;
-        font-size: 18px;
-        text-align: center;
-        border: none;
-        border-radius: 3px; }
-      home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail {
-        margin-left: 53px; }
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail ul:first-child {
-          height: 21px;
-          line-height: 21px;
-          margin-bottom: 6px; }
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail ul:last-child {
-          height: 21px;
-          line-height: 21px; }
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail label {
-          width: 54px;
-          height: 21px;
-          line-height: 21px;
-          color: #fff;
-          display: block;
-          text-align: center;
-          font-size: 14px;
-          margin-right: 10px;
-          border-radius: 3px; }
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail .send-protocol {
-          background-color: #28c59a;
-          border: none; }
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail .send-function {
-          border: none; }
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail .api-url,
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail .api-name {
-          font-weight: bold;
-          font-size: 16px;
-          overflow: hidden;
-          white-space: nowrap;
-          text-overflow: ellipsis; }
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail .api-url {
-          width: -webkit-calc(100% - 100px);
-          width: -ms-calc(100% - 100px);
-          width: -moz-calc(100% - 100px);
-          width: calc(100% - 100px); }
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail .api-name {
-          width: -webkit-calc(100% - 210px);
-          width: -ms-calc(100% - 210px);
-          width: -moz-calc(100% - 210px);
-          width: calc(100% - 210px); }
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail .time-li {
-          color: #a3a3a3;
-          font-size: 14px; }
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail .star-btn {
-          color: #a3a3a3;
-          font-size: 14px; }
-          home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail .star-btn .iconfont {
-            color: #ccc;
-            cursor: pointer; }
-          home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail .star-btn .icon-favorfill {
-            color: #f48932; }
-    home-project-inside-api-detail .home-project-inside-detail .first-level-article .item-part {
-      border: 1px solid #e5e5e5;
-      margin-top: 10px;
-      border-radius: 3px;
-      background-color: #fff; }
-      home-project-inside-api-detail .home-project-inside-detail .first-level-article .item-part .title-p {
-        height: 40px;
-        line-height: 40px;
-        padding: 0 10px; }
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .item-part .title-p b {
-          font-size: 14px;
-          color: #4CAF50; }
-    home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table thead .request-header-label {
-      width: 200px; }
-    home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table thead .param-name {
-      width: 20%; }
-    home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table thead .param-desc {
-      width: 20%; }
-    home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table thead .require-label {
-      width: 30px; }
-    home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table thead .type-label {
-      width: 100px; }
-    home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part .raw-article {
-      border-top: 1px solid #e5e5e5; }
-      home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part .raw-article .request-param-raw-form {
-        min-height: 130px;
-        max-height: 500px;
-        overflow: auto;
-        border: 1px solid #e5e5e5;
-        margin: 10px;
-        border-radius: 3px;
-        padding: 5px;
-        line-height: 20px;
-        font-size: 12px;
-        max-width: 100%; }
-    home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table thead .param-name {
-      width: 20%; }
-    home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table thead .param-desc {
-      width: 20%; }
-    home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table thead .require-label {
-      width: 30px; }
-    home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part {
-      margin: 0 0 10px 0; }
-      home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part header {
-        padding: 10px;
-        height: 30px;
-        line-height: 30px; }
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part header .icon-magic {
-          color: #1E88E5;
-          padding: 0;
-          padding-right: 5px;
-          font-size: 13px; }
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part header .send-format {
-          color: #1E88E5;
-          text-align: center;
-          padding: 0 10px;
-          font-size: 14px;
-          margin-left: 5px;
-          height: 30px;
-          line-height: 30px;
-          border: 1px solid #bcdffb;
-          background-color: #e3f7ff; }
-          home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part header .send-format:hover {
-            background-color: #1E88E5;
-            color: #fff; }
-            home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part header .send-format:hover * {
-              color: #fff; }
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part header .test-nav-li {
-          text-align: center;
-          width: 80px;
-          font-weight: initial;
-          font-size: 14px;
-          height: 28px;
-          line-height: 28px;
-          background-color: #edf7ee;
-          cursor: pointer;
-          color: #43A047;
-          border: 1px solid #b2d8b6; }
-          home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part header .test-nav-li:hover {
-            background-color: #4CAF50;
-            border-color: #43A047;
-            color: #fff; }
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part header .success-li {
-          border-radius: 3px 0 0 3px;
-          border-right: none; }
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part header .failure-li {
-          border-radius: 0 3px 3px 0;
-          border-left: none; }
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part header .active {
-          background-color: #43A047;
-          color: #fff;
-          border-color: #43A047; }
-      home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part article .copy-url-box {
-        padding: 0 10px; }
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part article .copy-url-box input {
-          width: -webkit-calc(100% - 70px);
-          width: -ms-calc(100% - 70px);
-          width: -moz-calc(100% - 70px);
-          width: calc(100% - 70px);
-          padding-right: 68px;
-          cursor: pointer;
-          overflow: hidden;
-          white-space: nowrap;
-          text-overflow: ellipsis; }
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part article .copy-url-box .copy-tips {
-          margin-top: -35px;
-          padding-right: 10px;
-          position: relative;
-          font-size: 12px;
-          color: #999;
-          height: 35px;
-          line-height: 35px;
-          cursor: pointer; }
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part article .copy-url-box .copy-success {
-          color: #4CAF50; }
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part article .copy-url-box .copy-error {
-          color: #c6533b; }
-      home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part article .back-result-content {
-        min-height: 130px;
-        max-height: 500px;
-        overflow: auto;
-        border: 1px solid #e5e5e5;
-        margin: 10px;
-        border-radius: 3px;
-        padding: 5px;
-        line-height: 20px;
-        font-size: 12px;
-        max-width: 100%;
-        width: -webkit-calc(100% - 32px);
-        width: -ms-calc(100% - 32px);
-        width: -moz-calc(100% - 32px);
-        width: calc(100% - 32px);
-        word-break: break-all;
-        white-space: pre-wrap; }
-        home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part article .back-result-content .null-tip-span {
-          font-size: 26px;
-          width: 100%;
-          display: block;
-          text-align: center;
-          line-height: 125px;
-          color: #ccc; }
-    home-project-inside-api-detail .home-project-inside-detail .first-level-article .note-part .wangEditor-container {
-      border: none;
-      border-top: 1px solid #e5e5e5; }
-    home-project-inside-api-detail .home-project-inside-detail .first-level-article .note-part .wangEditor-container,
-    home-project-inside-api-detail .home-project-inside-detail .first-level-article .note-part .wangEditor-container * {
-      cursor: default; }
-      home-project-inside-api-detail .home-project-inside-detail .first-level-article .note-part .wangEditor-container .wangEditor-txt img,
-      home-project-inside-api-detail .home-project-inside-detail .first-level-article .note-part .wangEditor-container * .wangEditor-txt img {
-        cursor: default; }
-
-home-project-inside-api-detail .home-project-inside-detail > header .title-ul .btn-group-li .default-btn {
-  margin-left: 10px; }
-
 home-project-inside .home-project-inside .home-project-inside-content home-project-inside-api-edit .home-project-inside-edit {
   margin-left: 0; }
 
@@ -9425,6 +9135,296 @@ home-project-inside-api-edit .wangEditor-container {
       .home-project-inside home-project-inside-api-edit .home-project-inside-edit article .request-param-part article .form-ul .request-param-info .go-more-btn-group .go-more span {
         display: none; } }
 
+home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table tbody .number-label, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table tbody .number-label, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table tbody .number-label {
+  width: 25px;
+  height: 25px;
+  line-height: 25px;
+  border-radius: 3px;
+  background-color: #f2f2f2;
+  color: #9e9e9e;
+  display: inline-block;
+  text-align: center;
+  border: 1px solid #e5e5e5; }
+
+home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table {
+  width: 100%;
+  border-spacing: 0;
+  table-layout: fixed;
+  border-top: 1px solid #e5e5e5; }
+  home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table th, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table th, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table th {
+    font-size: 14px;
+    height: 40px;
+    line-height: 40px;
+    padding-left: 10px;
+    cursor: default;
+    vertical-align: top; }
+  home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table thead, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table thead, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table thead {
+    background-color: #fafafa; }
+    home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table thead tr .num-td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table thead tr .num-td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table thead tr .num-td {
+      width: 30px; }
+    home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table thead tr .operation-td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table thead tr .operation-td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table thead tr .operation-td {
+      width: 45px; }
+  home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table tbody tr:nth-last-child(n+2) td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table tbody tr:nth-last-child(n+2) td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table tbody tr:nth-last-child(n+2) td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table tbody tr:nth-last-child(n+2) th, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table tbody tr:nth-last-child(n+2) th, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table tbody tr:nth-last-child(n+2) th {
+    border-bottom: 1px dashed #e5e5e5; }
+  home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table tbody tr:first-child td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table tbody tr:first-child td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table tbody tr:first-child td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table tbody tr:first-child th, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table tbody tr:first-child th, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table tbody tr:first-child th {
+    border-top: 1px solid #e5e5e5; }
+  home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table tbody tr .get-more-btn, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table tbody tr .get-more-btn, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table tbody tr .get-more-btn {
+    padding: 0 5px;
+    font-size: 12px;
+    height: 27px;
+    line-height: 27px; }
+  home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table tbody .hover-tr .hover-click-td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table tbody .hover-tr .hover-click-td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table tbody .hover-tr .hover-click-td {
+    cursor: pointer; }
+    home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table tbody .hover-tr .hover-click-td *, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table tbody .hover-tr .hover-click-td *, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table tbody .hover-tr .hover-click-td * {
+      cursor: pointer; }
+  home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table tbody .hover-tr:hover, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table tbody .hover-tr:hover, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table tbody .hover-tr:hover {
+    background-color: #fafafa; }
+
+home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table th, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table th, home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table td, home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table td {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  padding-right: 11px; }
+  home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table th:nth-last-child(n+2), home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table th:nth-last-child(n+2), home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table td:nth-last-child(n+2), home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table td:nth-last-child(n+2) {
+    border-right: 1px dashed #e5e5e5; }
+
+home-project-inside-api-detail .home-project-inside-detail {
+  z-index: 0;
+  padding-bottom: 20px; }
+  home-project-inside-api-detail .home-project-inside-detail .first-level-article {
+    padding: 0 10px;
+    margin-top: 10px; }
+    home-project-inside-api-detail .home-project-inside-detail .first-level-article .spreed-btn {
+      font-size: 12px; }
+      home-project-inside-api-detail .home-project-inside-detail .first-level-article .spreed-btn .iconfont {
+        font-size: 12px;
+        margin-right: 5px; }
+      home-project-inside-api-detail .home-project-inside-detail .first-level-article .spreed-btn:hover {
+        color: #25aae2; }
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .spreed-btn:hover .iconfont {
+          color: #25aae2; }
+    home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part {
+      min-height: 48px;
+      background-color: #fff;
+      border: 1px solid #e5e5e5;
+      border-radius: 3px;
+      padding: 10px; }
+      home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-status {
+        padding: 0 5px;
+        margin-right: 5px;
+        height: 48px;
+        line-height: 48px;
+        color: #fff;
+        font-size: 18px;
+        text-align: center;
+        border: none;
+        border-radius: 3px; }
+      home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail {
+        margin-left: 53px; }
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail ul:first-child {
+          height: 21px;
+          line-height: 21px;
+          margin-bottom: 6px; }
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail ul:last-child {
+          height: 21px;
+          line-height: 21px; }
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail label {
+          width: 54px;
+          height: 21px;
+          line-height: 21px;
+          color: #fff;
+          display: block;
+          text-align: center;
+          font-size: 14px;
+          margin-right: 10px;
+          border-radius: 3px; }
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail .send-protocol {
+          background-color: #28c59a;
+          border: none; }
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail .send-function {
+          border: none; }
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail .api-url,
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail .api-name {
+          font-weight: bold;
+          font-size: 16px;
+          overflow: hidden;
+          white-space: nowrap;
+          text-overflow: ellipsis; }
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail .api-url {
+          width: -webkit-calc(100% - 100px);
+          width: -ms-calc(100% - 100px);
+          width: -moz-calc(100% - 100px);
+          width: calc(100% - 100px); }
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail .api-name {
+          width: -webkit-calc(100% - 210px);
+          width: -ms-calc(100% - 210px);
+          width: -moz-calc(100% - 210px);
+          width: calc(100% - 210px); }
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail .time-li {
+          color: #a3a3a3;
+          font-size: 14px; }
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail .star-btn {
+          color: #a3a3a3;
+          font-size: 14px; }
+          home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail .star-btn .iconfont {
+            color: #ccc;
+            cursor: pointer; }
+          home-project-inside-api-detail .home-project-inside-detail .first-level-article .first-part .api-detail .star-btn .icon-favorfill {
+            color: #f48932; }
+    home-project-inside-api-detail .home-project-inside-detail .first-level-article .item-part {
+      border: 1px solid #e5e5e5;
+      margin-top: 10px;
+      border-radius: 3px;
+      background-color: #fff; }
+      home-project-inside-api-detail .home-project-inside-detail .first-level-article .item-part .title-p {
+        height: 40px;
+        line-height: 40px;
+        padding: 0 10px; }
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .item-part .title-p b {
+          font-size: 14px;
+          color: #4CAF50; }
+    home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-header-part table thead .request-header-label {
+      width: 200px; }
+    home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table thead .param-name {
+      width: 20%; }
+    home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table thead .param-desc {
+      width: 20%; }
+    home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table thead .require-label {
+      width: 30px; }
+    home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part table thead .type-label {
+      width: 100px; }
+    home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part .raw-article {
+      border-top: 1px solid #e5e5e5; }
+      home-project-inside-api-detail .home-project-inside-detail .first-level-article .request-param-part .raw-article .request-param-raw-form {
+        min-height: 130px;
+        max-height: 500px;
+        overflow: auto;
+        border: 1px solid #e5e5e5;
+        margin: 10px;
+        border-radius: 3px;
+        padding: 5px;
+        line-height: 20px;
+        font-size: 12px;
+        max-width: 100%; }
+    home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table thead .param-name {
+      width: 20%; }
+    home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table thead .param-desc {
+      width: 20%; }
+    home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-param-part table thead .require-label {
+      width: 30px; }
+    home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part {
+      margin: 0 0 10px 0; }
+      home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part header {
+        padding: 10px;
+        height: 30px;
+        line-height: 30px; }
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part header .icon-magic {
+          color: #1E88E5;
+          padding: 0;
+          padding-right: 5px;
+          font-size: 13px; }
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part header .send-format {
+          color: #1E88E5;
+          text-align: center;
+          padding: 0 10px;
+          font-size: 14px;
+          margin-left: 5px;
+          height: 30px;
+          line-height: 30px;
+          border: 1px solid #bcdffb;
+          background-color: #e3f7ff; }
+          home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part header .send-format:hover {
+            background-color: #1E88E5;
+            color: #fff; }
+            home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part header .send-format:hover * {
+              color: #fff; }
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part header .test-nav-li {
+          text-align: center;
+          width: 80px;
+          font-weight: initial;
+          font-size: 14px;
+          height: 28px;
+          line-height: 28px;
+          background-color: #edf7ee;
+          cursor: pointer;
+          color: #43A047;
+          border: 1px solid #b2d8b6; }
+          home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part header .test-nav-li:hover {
+            background-color: #4CAF50;
+            border-color: #43A047;
+            color: #fff; }
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part header .success-li {
+          border-radius: 3px 0 0 3px;
+          border-right: none; }
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part header .failure-li {
+          border-radius: 0 3px 3px 0;
+          border-left: none; }
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part header .active {
+          background-color: #43A047;
+          color: #fff;
+          border-color: #43A047; }
+      home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part article .copy-url-box {
+        padding: 0 10px; }
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part article .copy-url-box input {
+          width: -webkit-calc(100% - 70px);
+          width: -ms-calc(100% - 70px);
+          width: -moz-calc(100% - 70px);
+          width: calc(100% - 70px);
+          padding-right: 68px;
+          cursor: pointer;
+          overflow: hidden;
+          white-space: nowrap;
+          text-overflow: ellipsis; }
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part article .copy-url-box .copy-tips {
+          margin-top: -35px;
+          padding-right: 10px;
+          position: relative;
+          font-size: 12px;
+          color: #999;
+          height: 35px;
+          line-height: 35px;
+          cursor: pointer; }
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part article .copy-url-box .copy-success {
+          color: #4CAF50; }
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part article .copy-url-box .copy-error {
+          color: #c6533b; }
+      home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part article .back-result-content {
+        min-height: 130px;
+        max-height: 500px;
+        overflow: auto;
+        border: 1px solid #e5e5e5;
+        margin: 10px;
+        border-radius: 3px;
+        padding: 5px;
+        line-height: 20px;
+        font-size: 12px;
+        max-width: 100%;
+        width: -webkit-calc(100% - 32px);
+        width: -ms-calc(100% - 32px);
+        width: -moz-calc(100% - 32px);
+        width: calc(100% - 32px);
+        word-break: break-all;
+        white-space: pre-wrap; }
+        home-project-inside-api-detail .home-project-inside-detail .first-level-article .response-example-part article .back-result-content .null-tip-span {
+          font-size: 26px;
+          width: 100%;
+          display: block;
+          text-align: center;
+          line-height: 125px;
+          color: #ccc; }
+    home-project-inside-api-detail .home-project-inside-detail .first-level-article .note-part .wangEditor-container {
+      border: none;
+      border-top: 1px solid #e5e5e5; }
+    home-project-inside-api-detail .home-project-inside-detail .first-level-article .note-part .wangEditor-container,
+    home-project-inside-api-detail .home-project-inside-detail .first-level-article .note-part .wangEditor-container * {
+      cursor: default; }
+      home-project-inside-api-detail .home-project-inside-detail .first-level-article .note-part .wangEditor-container .wangEditor-txt img,
+      home-project-inside-api-detail .home-project-inside-detail .first-level-article .note-part .wangEditor-container * .wangEditor-txt img {
+        cursor: default; }
+
+home-project-inside-api-detail .home-project-inside-detail > header .title-ul .btn-group-li .default-btn {
+  margin-left: 10px; }
+
 home-project-inside-api-history .home-project-inside-history {
   z-index: 0; }
   home-project-inside-api-history .home-project-inside-history header .title-ul .btn-group-li .default-btn {
@@ -9498,117 +9498,6 @@ home-project-inside-api-history .home-project-inside-history {
       color: #999;
       margin-top: 10px;
       margin-left: 5px; }
-
-home-project-inside-api-list .home-project-inside-list header .search-li {
-  margin-left: 0; }
-
-home-project-inside-api-list .home-project-inside-list header .view-btn-li {
-  margin-left: 5px; }
-  home-project-inside-api-list .home-project-inside-list header .view-btn-li > p {
-    height: 30px;
-    line-height: 30px;
-    margin-top: 9px; }
-    home-project-inside-api-list .home-project-inside-list header .view-btn-li > p a {
-      background-color: #fff;
-      height: 30px;
-      line-height: 30px;
-      display: inline-block;
-      text-align: center;
-      padding: 0 10px;
-      font-size: 12px;
-      border: 1px solid #e5e5e5; }
-      home-project-inside-api-list .home-project-inside-list header .view-btn-li > p a .iconfont {
-        font-size: 12px;
-        margin-right: 5px; }
-      home-project-inside-api-list .home-project-inside-list header .view-btn-li > p a:nth-child(n+2) {
-        border-left: none; }
-    home-project-inside-api-list .home-project-inside-list header .view-btn-li > p .view-common-btn {
-      float: left; }
-      home-project-inside-api-list .home-project-inside-list header .view-btn-li > p .view-common-btn:first-child {
-        border-radius: 3px 0 0 3px; }
-      home-project-inside-api-list .home-project-inside-list header .view-btn-li > p .view-common-btn:last-child {
-        margin-left: 0;
-        border-left: none;
-        border-radius: 0 3px 3px 0; }
-    home-project-inside-api-list .home-project-inside-list header .view-btn-li > p .elem-active {
-      background-color: #43A047;
-      color: #fff; }
-      home-project-inside-api-list .home-project-inside-list header .view-btn-li > p .elem-active .iconfont {
-        color: #fff; }
-
-home-project-inside-api-list .home-project-inside-list .first-level-article table .icon-favorfill {
-  color: #f48932; }
-
-home-project-inside-api-list .home-project-inside-list .first-level-article table .icon-favor {
-  color: #ccc; }
-
-home-project-inside-api-list .home-project-inside-list .first-level-article table thead {
-  font-weight: bold;
-  height: 40px;
-  line-height: 40px; }
-  home-project-inside-api-list .home-project-inside-list .first-level-article table thead .first-th {
-    text-align: center;
-    text-indent: 0;
-    width: 36px; }
-  home-project-inside-api-list .home-project-inside-list .first-level-article table thead .second-th {
-    width: 30%; }
-    home-project-inside-api-list .home-project-inside-list .first-level-article table thead .second-th .count-span {
-      color: #999;
-      font-weight: initial;
-      font-size: 12px; }
-  home-project-inside-api-list .home-project-inside-list .first-level-article table thead .third-th {
-    width: 50%; }
-  home-project-inside-api-list .home-project-inside-list .first-level-article table thead .forth-th {
-    min-width: 100px;
-    width: 11%; }
-  home-project-inside-api-list .home-project-inside-list .first-level-article table thead .fifth-th {
-    min-width: 150px;
-    width: 15%; }
-  home-project-inside-api-list .home-project-inside-list .first-level-article table thead .sixth-th {
-    min-width: 115px;
-    width: 144px; }
-  home-project-inside-api-list .home-project-inside-list .first-level-article table thead .trash-sixth-th {
-    width: 175px; }
-
-home-project-inside-api-list .home-project-inside-list .first-level-article table td, home-project-inside-api-list .home-project-inside-list .first-level-article table th {
-  color: #666;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis; }
-
-home-project-inside-api-list .home-project-inside-list .first-level-article table tbody .iconfont {
-  font-size: 14px;
-  cursor: pointer; }
-
-home-project-inside-api-list .home-project-inside-list .first-level-article table tbody tr:nth-child(odd) {
-  background: #fafafa; }
-
-home-project-inside-api-list .home-project-inside-list .first-level-article table tbody tr:nth-child(even) {
-  background: #fff; }
-
-home-project-inside-api-list .home-project-inside-list .first-level-article table tbody tr {
-  height: 40px;
-  line-height: 40px; }
-  home-project-inside-api-list .home-project-inside-list .first-level-article table tbody tr th {
-    width: 36px;
-    text-align: center;
-    text-indent: 0; }
-  home-project-inside-api-list .home-project-inside-list .first-level-article table tbody tr td:nth-child(2) .icon-circle {
-    font-size: 12px;
-    margin-right: 5px; }
-  home-project-inside-api-list .home-project-inside-list .first-level-article table tbody tr td:nth-child(2) span {
-    padding: 2px;
-    border: 1px solid #276be1;
-    background-color: #4880e0;
-    color: #fff;
-    border-radius: 5px; }
-  home-project-inside-api-list .home-project-inside-list .first-level-article table tbody tr .icon-favor {
-    display: none; }
-  home-project-inside-api-list .home-project-inside-list .first-level-article table tbody tr:hover {
-    background: #f0f0f0;
-    cursor: pointer; }
-    home-project-inside-api-list .home-project-inside-list .first-level-article table tbody tr:hover .icon-favor {
-      display: inline-block; }
 
 home-project-inside-api-mock .home-project-inside-mock .first-level-article .mock-part table tbody .number-label {
   width: 25px;
@@ -9748,6 +9637,117 @@ home-project-inside-api-mock .home-project-inside-mock {
           width: calc(100% - 32px);
           word-break: break-all;
           white-space: pre-wrap; }
+
+home-project-inside-api-list .home-project-inside-list header .search-li {
+  margin-left: 0; }
+
+home-project-inside-api-list .home-project-inside-list header .view-btn-li {
+  margin-left: 5px; }
+  home-project-inside-api-list .home-project-inside-list header .view-btn-li > p {
+    height: 30px;
+    line-height: 30px;
+    margin-top: 9px; }
+    home-project-inside-api-list .home-project-inside-list header .view-btn-li > p a {
+      background-color: #fff;
+      height: 30px;
+      line-height: 30px;
+      display: inline-block;
+      text-align: center;
+      padding: 0 10px;
+      font-size: 12px;
+      border: 1px solid #e5e5e5; }
+      home-project-inside-api-list .home-project-inside-list header .view-btn-li > p a .iconfont {
+        font-size: 12px;
+        margin-right: 5px; }
+      home-project-inside-api-list .home-project-inside-list header .view-btn-li > p a:nth-child(n+2) {
+        border-left: none; }
+    home-project-inside-api-list .home-project-inside-list header .view-btn-li > p .view-common-btn {
+      float: left; }
+      home-project-inside-api-list .home-project-inside-list header .view-btn-li > p .view-common-btn:first-child {
+        border-radius: 3px 0 0 3px; }
+      home-project-inside-api-list .home-project-inside-list header .view-btn-li > p .view-common-btn:last-child {
+        margin-left: 0;
+        border-left: none;
+        border-radius: 0 3px 3px 0; }
+    home-project-inside-api-list .home-project-inside-list header .view-btn-li > p .elem-active {
+      background-color: #43A047;
+      color: #fff; }
+      home-project-inside-api-list .home-project-inside-list header .view-btn-li > p .elem-active .iconfont {
+        color: #fff; }
+
+home-project-inside-api-list .home-project-inside-list .first-level-article table .icon-favorfill {
+  color: #f48932; }
+
+home-project-inside-api-list .home-project-inside-list .first-level-article table .icon-favor {
+  color: #ccc; }
+
+home-project-inside-api-list .home-project-inside-list .first-level-article table thead {
+  font-weight: bold;
+  height: 40px;
+  line-height: 40px; }
+  home-project-inside-api-list .home-project-inside-list .first-level-article table thead .first-th {
+    text-align: center;
+    text-indent: 0;
+    width: 36px; }
+  home-project-inside-api-list .home-project-inside-list .first-level-article table thead .second-th {
+    width: 30%; }
+    home-project-inside-api-list .home-project-inside-list .first-level-article table thead .second-th .count-span {
+      color: #999;
+      font-weight: initial;
+      font-size: 12px; }
+  home-project-inside-api-list .home-project-inside-list .first-level-article table thead .third-th {
+    width: 50%; }
+  home-project-inside-api-list .home-project-inside-list .first-level-article table thead .forth-th {
+    min-width: 100px;
+    width: 11%; }
+  home-project-inside-api-list .home-project-inside-list .first-level-article table thead .fifth-th {
+    min-width: 150px;
+    width: 15%; }
+  home-project-inside-api-list .home-project-inside-list .first-level-article table thead .sixth-th {
+    min-width: 115px;
+    width: 144px; }
+  home-project-inside-api-list .home-project-inside-list .first-level-article table thead .trash-sixth-th {
+    width: 175px; }
+
+home-project-inside-api-list .home-project-inside-list .first-level-article table td, home-project-inside-api-list .home-project-inside-list .first-level-article table th {
+  color: #666;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis; }
+
+home-project-inside-api-list .home-project-inside-list .first-level-article table tbody .iconfont {
+  font-size: 14px;
+  cursor: pointer; }
+
+home-project-inside-api-list .home-project-inside-list .first-level-article table tbody tr:nth-child(odd) {
+  background: #fafafa; }
+
+home-project-inside-api-list .home-project-inside-list .first-level-article table tbody tr:nth-child(even) {
+  background: #fff; }
+
+home-project-inside-api-list .home-project-inside-list .first-level-article table tbody tr {
+  height: 40px;
+  line-height: 40px; }
+  home-project-inside-api-list .home-project-inside-list .first-level-article table tbody tr th {
+    width: 36px;
+    text-align: center;
+    text-indent: 0; }
+  home-project-inside-api-list .home-project-inside-list .first-level-article table tbody tr td:nth-child(2) .icon-circle {
+    font-size: 12px;
+    margin-right: 5px; }
+  home-project-inside-api-list .home-project-inside-list .first-level-article table tbody tr td:nth-child(2) span {
+    padding: 2px;
+    border: 1px solid #276be1;
+    background-color: #4880e0;
+    color: #fff;
+    border-radius: 5px; }
+  home-project-inside-api-list .home-project-inside-list .first-level-article table tbody tr .icon-favor {
+    display: none; }
+  home-project-inside-api-list .home-project-inside-list .first-level-article table tbody tr:hover {
+    background: #f0f0f0;
+    cursor: pointer; }
+    home-project-inside-api-list .home-project-inside-list .first-level-article table tbody tr:hover .icon-favor {
+      display: inline-block; }
 
 home-project-inside-api-test .home-project-inside-test {
   z-index: 0;
