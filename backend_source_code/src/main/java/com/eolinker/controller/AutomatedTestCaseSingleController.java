@@ -46,7 +46,6 @@ public class AutomatedTestCaseSingleController
 	/**
 	 * 添加单例
 	 * @param request
-	 * @param project
 	 * @return
 	 */
 	@ResponseBody

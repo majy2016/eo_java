@@ -56,6 +56,7 @@
                     script:'<'
                 },
                 link: function($scope, elem, attrs, ctrl) {
+                    console.log(22222222222222)
                     var countdown = null;
                     var templateCountdown = null;
                     var timer = null;
@@ -462,7 +463,6 @@
                             } else {
                                 serverTest();
                             }
-                            // serverTest();
                         } else {
                             clearInterval(templateCountdown);
                             clearInterval(countdown);

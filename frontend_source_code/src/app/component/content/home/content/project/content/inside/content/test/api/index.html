@@ -13,7 +13,7 @@
                 <a class="eo-button-success common-btn" ng-click="$ctrl.data.fun.edit('add')" ng-if="$ctrl.powerObject.edit">
                     <span class="iconfont icon-tianjia"></span><span class="btn-name">{{'0121602'|translate}}</span>
                 </a>
-                <button class="eo-button-info common-btn batch-test-btn" ng-click="$ctrl.data.fun.test('all')" testing="{{$ctrl.data.info.statusObject.testing||false}}" ng-disabled="(!$ctrl.data.info.plugObject.version)||($ctrl.data.info.plugObject.version<190)||($ctrl.data.interaction.response.query<=0)"><span class="iconfont icon-searchlist"></span><span class="btn-name">{{$ctrl.data.info.statusObject.testing?$ctrl.data.info.filter.stop:$ctrl.data.info.filter.testAll}}</span></button>
+                <button class="eo-button-info common-btn batch-test-btn" ng-click="$ctrl.data.fun.test('all')" testing="{{$ctrl.data.info.statusObject.testing||false}}" ng-disabled="($ctrl.data.interaction.response.query<=0)"><span class="iconfont icon-searchlist"></span><span class="btn-name">{{$ctrl.data.info.statusObject.testing?$ctrl.data.info.filter.stop:$ctrl.data.info.filter.testAll}}</span></button>
             </li>
         </ul>
     </header>
@@ -49,7 +49,7 @@
                     </td>
                     <td class="operate-td" >
                         <!--测试按钮-->
-                        <button class="eo-operate-btn batch-test-btn" ng-disabled="(!item.statusCode)||$ctrl.data.info.statusObject.testing" ng-click="$ctrl.data.fun.test('singal',{item:item,$index:$index})" testing="{{item.testing||false}}"><span class="iconfont icon-shandian"></span>{{item.testing?$ctrl.data.info.filter.stop:$ctrl.data.info.filter.test}}</button>
+                        <button class="eo-operate-btn batch-test-btn" ng-disabled="(!item.statusCode)||$ctrl.data.info.statusObject.testing" ng-click="$ctrl.data.fun.test('singal',{item:item,$index:$index})"  testing="{{item.testing||false}}"><span class="iconfont icon-shandian"></span>{{item.testing?$ctrl.data.info.filter.stop:$ctrl.data.info.filter.test}}</button>
                         <button class="eo-operate-btn" ng-disabled="$ctrl.data.info.statusObject.testing||item.testing" ng-click="item.listIsClick=!item.listIsClick" ng-mouseleave="item.listIsClick=false">
                                 <span class="iconfont icon-zaiqianmiancharuxinmuluxiang"></span>{{'01216031'|translate}}
                                 <div class="list-function-wrap" ng-show="item.listIsClick">

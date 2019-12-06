@@ -104,6 +104,7 @@
                 }
             }
         }
+
         vm.data.fun.enter = function (arg) {
             var template = {
                 $index: vm.data.interaction.request.caseID.indexOf(arg.item.caseID)
