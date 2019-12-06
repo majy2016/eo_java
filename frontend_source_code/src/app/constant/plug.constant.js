@@ -106,49 +106,49 @@
                     name: 'EOPLUG_TIPS',
                     module: true,
                     directive: 'plug-tips',
-                    files: ['plug/tip/index.js?timestamp=1575273522485']
+                    files: ['plug/tip/index.js?timestamp=1575277078975']
 
                 },
                 {
                     name: 'EOPLUG_SDK',
                     module: true,
                     directive: 'plug-sdk',
-                    files: ['plug/sdk/index.css?timestamp=1575273522487', 'plug/sdk/index.service.js?timestamp=1575273522485', 'plug/sdk/index.resource.js?timestamp=1575273522485', 'plug/sdk/index.js?timestamp=1575273522485']
+                    files: ['plug/sdk/index.css?timestamp=1575277078977', 'plug/sdk/index.service.js?timestamp=1575277078975', 'plug/sdk/index.resource.js?timestamp=1575277078975', 'plug/sdk/index.js?timestamp=1575277078975']
 
                 },
                 {
                     name: 'EOPLUG_MOCK',
                     module: true,
                     directive: 'plug-mock',
-                    files: ['plug/mock/index.css?timestamp=1575273522487', 'plug/mock/index.resource.js?timestamp=1575273522485', 'plug/mock/index.js?timestamp=1575273522485']
+                    files: ['plug/mock/index.css?timestamp=1575277078977', 'plug/mock/index.resource.js?timestamp=1575277078975', 'plug/mock/index.js?timestamp=1575277078975']
 
                 },
                 // {
                 //     name: 'EOPLUG_WEBHOOK',
                 //     module: true,
                 //     directive:'plug-web-hook',
-                //     files: ['plug/webHook/index.css?timestamp=1575273522487','plug/webHook/index.resource.js?timestamp=1575273522485','plug/webHook/index.js?timestamp=1575273522485']
+                //     files: ['plug/webHook/index.css?timestamp=1575277078977','plug/webHook/index.resource.js?timestamp=1575277078975','plug/webHook/index.js?timestamp=1575277078975']
                 // },
                 {
                     name: 'EOPLUG_MOCKAUTOMATIC',
                     module: true,
                     directive: 'plug-mock-automatic',
-                    files: ['plug/mockAutomatic/index.css?timestamp=1575273522487', 'plug/mockAutomatic/index.js?timestamp=1575273522485']
+                    files: ['plug/mockAutomatic/index.css?timestamp=1575277078977', 'plug/mockAutomatic/index.js?timestamp=1575277078975']
                 }, {
                     name: 'EOPLUG_SAVEAUTOMATIC',
                     module: true,
                     directive: 'plug-save-automatic',
-                    files: ['plug/saveAutomatic/index.css?timestamp=1575273522487', 'plug/saveAutomatic/index.js?timestamp=1575273522485']
+                    files: ['plug/saveAutomatic/index.css?timestamp=1575277078977', 'plug/saveAutomatic/index.js?timestamp=1575277078975']
                 }, {
                     name: 'EOPLUG_CHECKCODE',
                     module: true,
                     directive: 'plug-check-code',
-                    files: ['plug/checkCode/index.css?timestamp=1575273522487', 'plug/checkCode/index.js?timestamp=1575273522485']
+                    files: ['plug/checkCode/index.css?timestamp=1575277078977', 'plug/checkCode/index.js?timestamp=1575277078975']
                 }, {
                     name: 'EOPLUG_CHECKAPI',
                     module: true,
                     directive: 'plug-check-api',
-                    files: ['plug/checkApi/index.css?timestamp=1575273522487', 'plug/checkApi/index.resource.js?timestamp=1575273522485', 'plug/checkApi/index.js?timestamp=1575273522485']
+                    files: ['plug/checkApi/index.css?timestamp=1575277078977', 'plug/checkApi/index.resource.js?timestamp=1575277078975', 'plug/checkApi/index.js?timestamp=1575277078975']
                 }
             ]
         });

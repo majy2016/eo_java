@@ -144,76 +144,6 @@
                     }
 
                     /**
-                     * @function [插件测试调用功能函数] [The plugin test calls the function function]
-                     * @param    {[obj]}   testHistory [测试历史 Test history]
-                     */
-                    var plugTest = function(testHistory) {
-                        var data = {};
-                        var template = {
-                            img: {
-                                html: ''
-                            }
-                        }
-                        try {
-                            data = JSON.parse($filter('HtmlFilter')(document.getElementById('plug-in-result-js').innerText));
-                        } catch (e) {
-                            data = {
-                                statusCode: '2xxxxx'
-                            }
-                        }
-                        if (data.statusCode == CODE.COMMON.SUCCESS) {
-                            $scope.result = {
-                                menuType:'body',
-                                testHttpCode: data.testHttpCode,
-                                testDeny: data.testDeny,
-                                testResult: data.testResult,
-                                httpCodeType: data.testHttpCode >= 100 && data.testHttpCode < 200 ? 1 : data.testHttpCode >= 200 && data.testHttpCode < 300 ? 2 : data.testHttpCode >= 300 && data.testHttpCode < 400 ? 3 : 4
-                            };
-                            if (/image\/(jpg|jpeg|png|gif)/ig.test(JSON.stringify(data.testResult.headers))) {
-                                template.img.html = '<img style="max-width:100%;" author="eolinker-frontend" src="' + data.testResult.body + '"/>';
-                            }
-                            var result = $scope.result.testResult.body;
-                            testHistory.resultInfo = {
-                                headers: data.testResult.headers,
-                                body: template.img.html || ((typeof result == 'object') ? angular.toJson(data.testResult.body) : data.testResult.body),
-                                httpCode: data.testHttpCode,
-                                testDeny: data.testDeny
-                            };
-                            testHistory.testID = data.testID;
-                            testHistory.httpCodeType = data.testHttpCode >= 100 && data.testHttpCode < 200 ? 1 : data.testHttpCode >= 200 && data.testHttpCode < 300 ? 2 : data.testHttpCode >= 300 && data.testHttpCode < 400 ? 3 : 4;
-                            var array = [];
-                            array.push(testHistory);
-                            $scope.detail.testHistory = array.concat($scope.detail.testHistory);
-                            if (typeof result == 'object') {
-                                $scope.format.message = angular.toJson(result);
-                            } else {
-                                $scope.format.message = template.img.html || result;
-                            }
-                            $scope.addHistory({
-                                arg: {
-                                    history: testHistory
-                                }
-                            });
-                        } else {
-                            $scope.result = {
-                                menuType:'body',
-                                httpCodeType: 5
-                            };
-                            if (data.errorText) {
-                                $scope.format.message = data.errorText;
-                            } else {
-                                $scope.format.message = '';
-                            }
-                        }
-                        $scope.result.hadTest = true;
-                        clearInterval(templateCountdown);
-                        clearInterval(countdown);
-                        $scope.send.countdown = null;
-                        $scope.send.disable = false;
-                        $scope.$apply();
-                    }
-
-                    /**
                      * @function [服务器测试调用功能函数] [Server test call]
                      */
                     var serverTest = function() {
@@ -403,136 +333,136 @@
                             }
                         }
                         if (!$scope.send.disable) {
-                            // if ($window.plug && $window.plug.type == "application/eolinker") {
-                            //     document.getElementById('plug-in-result-js').innerText = '';
-                            //     var info = {
-                            //         apiProtocol: $scope.message.httpHeader,
-                            //         URL: $scope.message.URL,
-                            //         headers: {},
-                            //         params: {},
-                            //     }
-                            //     if (/(http:\/\/)/.test(info.URL.substring(0, 7))) {
-                            //         info.URL = info.URL.substring(7);
-                            //     } else if (/(https:\/\/)/.test(info.URL.substring(0, 8))) {
-                            //         info.URL = info.URL.substring(8);
-                            //     }
-                            //     var testHistory = {
-                            //         requestInfo: {
-                            //             apiProtocol: info.apiProtocol,
-                            //             URL: template.env.URL,
-                            //             headers: [],
-                            //             params: [],
-                            //             method: $scope.detail.baseInfo.type == '0' ? 'POST' : $scope.detail.baseInfo.type == '1' ? 'GET' : $scope.detail.baseInfo.type == '2' ? 'PUT' : $scope.detail.baseInfo.type == '3' ? 'DELETE' : $scope.detail.baseInfo.type == '4' ? 'HEAD' : $scope.detail.baseInfo.type == '5' ? 'OPTIONS' : 'PATCH',
-                            //             methodType: $scope.detail.baseInfo.type,
-                            //             requestType: ($scope.json.checkbox && $scope.message.requestType != '1' && /0|2|6/.test($scope.detail.baseInfo.type)) ? 1 : $scope.message.requestType
-                            //         }
-                            //     };
-                            //     if ($scope.testForm.$valid) {
-                            //         angular.forEach(template.env.headers, function(val, key) {
-                            //             if (val.checkbox) {
-                            //                 if (!!val.headerName) {
-                            //                     info.headers[val.headerName] = val.headerValue;
-                            //                     var history = {
-                            //                         name: val.headerName,
-                            //                         value: val.headerValue
-                            //                     }
-                            //                     testHistory.requestInfo.headers.push(history);
-                            //                 }
-                            //             }
-                            //         });
-                            //         switch ($scope.auth.status) {
-                            //             case '1':
-                            //                 {
-                            //                     testHistory.requestInfo.headers.push({
-                            //                         name: 'Authorization',
-                            //                         value: $filter('base64Filter')($scope.auth.basicAuth.username + ':' + $scope.auth.basicAuth.password)
-                            //                     });
-                            //                     break;
-                            //                 }
-                            //         }
-                            //         switch ($scope.message.requestType) {
-                            //             case '0':
-                            //                 {
-                            //                     if ($scope.json.checkbox && /0|2|6/.test($scope.detail.baseInfo.type)) {
-                            //                         testHistory.requestInfo.params = $filter('paramLevelToJsonFilter')(template.env.params);
-                            //                     } else {
-                            //                         angular.forEach(template.env.params, function(val, key) {
-                            //                             if (val.checkbox) {
-                            //                                 if (!!val.paramKey) {
-                            //                                     var history = {
-                            //                                         key: val.paramKey,
-                            //                                         value: val.paramInfo
-                            //                                     }
-                            //                                     testHistory.requestInfo.params.push(history);
-                            //                                 }
-                            //                             }
-                            //                         });
-                            //                     }
-                            //                     break;
-                            //                 }
-                            //             case '1':
-                            //                 {
-                            //                     testHistory.requestInfo.params = $scope.message.raw;
-                            //                     break;
-                            //                 }
-                            //             case '2':
-                            //                 {
-                            //                     angular.forEach(template.env.params, function(val, key) {
-                            //                         if (val.checkbox) {
-                            //                             if (val.paramKey) {
-                            //                                 if (info.URL.trim().indexOf('{' + val.paramKey + '}') > -1) {
-                            //                                     info.URL = info.URL.replace(eval('/(\\\{' + val.paramKey + '\\\})/g'), val.paramInfo);
-                            //                                 } else {
-                            //                                     template.restfulObject.hadFilterParams.push(val);
-                            //                                     var history = {
-                            //                                         key: val.paramKey,
-                            //                                         value: val.paramInfo
-                            //                                     }
-                            //                                     testHistory.requestInfo.params.push(history);
-                            //                                 }
-                            //                             }
-                            //                         }
-                            //                     });
-                            //                     if ($scope.json.checkbox && /0|2|6/.test($scope.detail.baseInfo.type)) {
-                            //                         testHistory.requestInfo.params = $filter('paramLevelToJsonFilter')(template.restfulObject.hadFilterParams);
-                            //                     }
-                            //                     testHistory.requestInfo.URL = info.URL;
-                            //                     break;
-                            //                 }
-                            //         }
-                            //         var type = $scope.detail.baseInfo.type;
-                            //         testHistory.testTime = $filter('currentTimeFilter')();
-                            //         var result = {};
-                            //         $scope.send.countdown = 0;
-                            //         $scope.send.disable = true;
-                            //         templateCountdown = setInterval(function() {
-                            //             if (!!document.getElementById('plug-in-result-js').innerText) {
-                            //                 plugTest(testHistory);
-                            //             }
-                            //         }, 10);
-                            //         countdown = setInterval(function() {
-                            //             $scope.send.countdown++;
-                            //             $scope.$digest(); // 通知视图模型的变化
-                            //             if ($scope.send.countdown == 60) {
-                            //                 $scope.result = {
-                            //                     httpCodeType: 5,
-                            //                     menuType:'body'
-                            //                 };
-                            //                 $scope.format.message = '';
-                            //                 $scope.isJson = false;
-                            //                 $scope.result.hadTest = true;
-                            //                 clearInterval(countdown);
-                            //                 clearInterval(templateCountdown);
-                            //                 $scope.send.countdown = null;
-                            //                 $scope.send.disable = false;
-                            //                 $scope.$digest();
-                            //             }
-                            //         }, 1000);
-                            //     }
-                            // } else {
-                            //     serverTest();
-                            // }
-                            serverTest();
+                            if ($window.plug && $window.plug.type == "application/eolinker") {
+                                document.getElementById('plug-in-result-js').innerText = '';
+                                var info = {
+                                    apiProtocol: $scope.message.httpHeader,
+                                    URL: $scope.message.URL,
+                                    headers: {},
+                                    params: {},
+                                }
+                                if (/(http:\/\/)/.test(info.URL.substring(0, 7))) {
+                                    info.URL = info.URL.substring(7);
+                                } else if (/(https:\/\/)/.test(info.URL.substring(0, 8))) {
+                                    info.URL = info.URL.substring(8);
+                                }
+                                var testHistory = {
+                                    requestInfo: {
+                                        apiProtocol: info.apiProtocol,
+                                        URL: template.env.URL,
+                                        headers: [],
+                                        params: [],
+                                        method: $scope.detail.baseInfo.type == '0' ? 'POST' : $scope.detail.baseInfo.type == '1' ? 'GET' : $scope.detail.baseInfo.type == '2' ? 'PUT' : $scope.detail.baseInfo.type == '3' ? 'DELETE' : $scope.detail.baseInfo.type == '4' ? 'HEAD' : $scope.detail.baseInfo.type == '5' ? 'OPTIONS' : 'PATCH',
+                                        methodType: $scope.detail.baseInfo.type,
+                                        requestType: ($scope.json.checkbox && $scope.message.requestType != '1' && /0|2|6/.test($scope.detail.baseInfo.type)) ? 1 : $scope.message.requestType
+                                    }
+                                };
+                                if ($scope.testForm.$valid) {
+                                    angular.forEach(template.env.headers, function(val, key) {
+                                        if (val.checkbox) {
+                                            if (!!val.headerName) {
+                                                info.headers[val.headerName] = val.headerValue;
+                                                var history = {
+                                                    name: val.headerName,
+                                                    value: val.headerValue
+                                                }
+                                                testHistory.requestInfo.headers.push(history);
+                                            }
+                                        }
+                                    });
+                                    switch ($scope.auth.status) {
+                                        case '1':
+                                            {
+                                                testHistory.requestInfo.headers.push({
+                                                    name: 'Authorization',
+                                                    value: $filter('base64Filter')($scope.auth.basicAuth.username + ':' + $scope.auth.basicAuth.password)
+                                                });
+                                                break;
+                                            }
+                                    }
+                                    switch ($scope.message.requestType) {
+                                        case '0':
+                                            {
+                                                if ($scope.json.checkbox && /0|2|6/.test($scope.detail.baseInfo.type)) {
+                                                    testHistory.requestInfo.params = $filter('paramLevelToJsonFilter')(template.env.params);
+                                                } else {
+                                                    angular.forEach(template.env.params, function(val, key) {
+                                                        if (val.checkbox) {
+                                                            if (!!val.paramKey) {
+                                                                var history = {
+                                                                    key: val.paramKey,
+                                                                    value: val.paramInfo
+                                                                }
+                                                                testHistory.requestInfo.params.push(history);
+                                                            }
+                                                        }
+                                                    });
+                                                }
+                                                break;
+                                            }
+                                        case '1':
+                                            {
+                                                testHistory.requestInfo.params = $scope.message.raw;
+                                                break;
+                                            }
+                                        case '2':
+                                            {
+                                                angular.forEach(template.env.params, function(val, key) {
+                                                    if (val.checkbox) {
+                                                        if (val.paramKey) {
+                                                            if (info.URL.trim().indexOf('{' + val.paramKey + '}') > -1) {
+                                                                info.URL = info.URL.replace(eval('/(\\\{' + val.paramKey + '\\\})/g'), val.paramInfo);
+                                                            } else {
+                                                                template.restfulObject.hadFilterParams.push(val);
+                                                                var history = {
+                                                                    key: val.paramKey,
+                                                                    value: val.paramInfo
+                                                                }
+                                                                testHistory.requestInfo.params.push(history);
+                                                            }
+                                                        }
+                                                    }
+                                                });
+                                                if ($scope.json.checkbox && /0|2|6/.test($scope.detail.baseInfo.type)) {
+                                                    testHistory.requestInfo.params = $filter('paramLevelToJsonFilter')(template.restfulObject.hadFilterParams);
+                                                }
+                                                testHistory.requestInfo.URL = info.URL;
+                                                break;
+                                            }
+                                    }
+                                    var type = $scope.detail.baseInfo.type;
+                                    testHistory.testTime = $filter('currentTimeFilter')();
+                                    var result = {};
+                                    $scope.send.countdown = 0;
+                                    $scope.send.disable = true;
+                                    templateCountdown = setInterval(function() {
+                                        if (!!document.getElementById('plug-in-result-js').innerText) {
+                                            plugTest(testHistory);
+                                        }
+                                    }, 10);
+                                    countdown = setInterval(function() {
+                                        $scope.send.countdown++;
+                                        $scope.$digest(); // 通知视图模型的变化
+                                        if ($scope.send.countdown == 60) {
+                                            $scope.result = {
+                                                httpCodeType: 5,
+                                                menuType:'body'
+                                            };
+                                            $scope.format.message = '';
+                                            $scope.isJson = false;
+                                            $scope.result.hadTest = true;
+                                            clearInterval(countdown);
+                                            clearInterval(templateCountdown);
+                                            $scope.send.countdown = null;
+                                            $scope.send.disable = false;
+                                            $scope.$digest();
+                                        }
+                                    }, 1000);
+                                }
+                            } else {
+                                serverTest();
+                            }
+                            // serverTest();
                         } else {
                             clearInterval(templateCountdown);
                             clearInterval(countdown);

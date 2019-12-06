@@ -96,7 +96,6 @@
          * @function [测试功能] [Test function]
          */
         vm.data.fun.test = function () {
-            console.log(1111111)
             vm.component.reportObject.testing = vm.component.batchTestObject.testing = !vm.component.batchTestObject.testing;
             if (vm.data.info.plugObject.useStatus) {
                 if (vm.component.batchTestObject.testing) {

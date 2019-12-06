@@ -28,6 +28,7 @@
                     <th class="forth-th">{{'01216013'|translate}}</th>
                 </tr>
             </thead>
+            <!--测试用例列表-->
             <tbody>
                 <tr ng-repeat='item in $ctrl.data.interaction.response.query'>
                     <td>
@@ -47,6 +48,7 @@
                         </p>
                     </td>
                     <td class="operate-td" >
+                        <!--测试按钮-->
                         <button class="eo-operate-btn batch-test-btn" ng-disabled="(!item.statusCode)||$ctrl.data.info.statusObject.testing" ng-click="$ctrl.data.fun.test('singal',{item:item,$index:$index})" testing="{{item.testing||false}}"><span class="iconfont icon-shandian"></span>{{item.testing?$ctrl.data.info.filter.stop:$ctrl.data.info.filter.test}}</button>
                         <button class="eo-operate-btn" ng-disabled="$ctrl.data.info.statusObject.testing||item.testing" ng-click="item.listIsClick=!item.listIsClick" ng-mouseleave="item.listIsClick=false">
                                 <span class="iconfont icon-zaiqianmiancharuxinmuluxiang"></span>{{'01216031'|translate}}
